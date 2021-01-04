@@ -1,0 +1,829 @@
+Nation of League,League,Date of Game,Date of Data Collection,Time of Scrape,Home Team,Away Team,Home Team Average Odds,Away Team Average Odds,Draw Odds
+England,Premier League,2021-01-04,2021-01-04,13:14,Southampton,Liverpool,5.28,1.61,4.48
+England,Premier League,2021-01-12,2021-01-04,13:14,Sheffield Utd,Newcastle,2.55,2.94,3.22
+England,Premier League,2021-01-12,2021-01-04,13:14,Burnley,Manchester Utd,6.75,1.49,4.5
+England,Premier League,2021-01-12,2021-01-04,13:14,Wolves,Everton,2.53,2.94,3.26
+England,Premier League,2021-01-13,2021-01-04,13:14,Manchester City,Brighton,1.21,13.84,6.76
+England,Premier League,2021-01-13,2021-01-04,13:14,Aston Villa,Tottenham,2.77,2.44,3.68
+England,Premier League,2021-01-14,2021-01-04,13:14,Arsenal,Crystal Palace,1.56,6.33,4.14
+England,Premier League,2021-01-15,2021-01-04,13:14,Fulham,Chelsea,5.96,1.56,4.25
+England,Premier League,2021-01-16,2021-01-04,13:14,Wolves,West Brom,1.54,6.88,4.04
+England,Premier League,2021-01-16,2021-01-04,13:14,Leeds,Brighton,2.05,3.48,3.74
+England,Premier League,2021-01-16,2021-01-04,13:14,West Ham,Burnley,1.90,4.26,3.56
+England,Premier League,2021-01-16,2021-01-04,13:14,Aston Villa,Everton,2.28,2.98,3.68
+England,Premier League,2021-01-16,2021-01-04,13:14,Leicester,Southampton,2.00,3.7,3.62
+England,Premier League,2021-01-17,2021-01-04,13:14,Sheffield Utd,Tottenham,6.77,1.49,4.42
+England,Premier League,2021-01-17,2021-01-04,13:14,Liverpool,Manchester Utd,2.08,3.44,3.7
+England,Premier League,2021-01-17,2021-01-04,13:14,Manchester City,Crystal Palace,1.20,14.4,7.04
+England,Premier League,2021-01-18,2021-01-04,13:14,Arsenal,Newcastle,1.57,5.94,4.26
+,,,,,,,,,
+Europe,Champions League,2021-02-16,2021-01-04,13:14,Barcelona,Paris SG,2.31,2.89,3.72
+Europe,Champions League,2021-02-16,2021-01-04,13:14,RB Leipzig,Liverpool,3.17,2.18,3.65
+Europe,Champions League,2021-02-17,2021-01-04,13:14,FC Porto,Juventus,4.36,1.93,3.35
+Europe,Champions League,2021-02-17,2021-01-04,13:14,Sevilla,Dortmund,2.52,2.83,3.37
+Europe,Champions League,2021-02-23,2021-01-04,13:14,Atl. Madrid,Chelsea,2.40,3.18,3.16
+Europe,Champions League,2021-02-23,2021-01-04,13:14,Lazio,Bayern Munich,5.30,1.58,4.37
+Europe,Champions League,2021-02-24,2021-01-04,13:14,Atalanta,Real Madrid,3.16,2.14,3.79
+Europe,Champions League,2021-02-24,2021-01-04,13:14,B. Monchengladbach,Manchester City,5.42,1.57,4.37
+,,,,,,,,,
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Braga,AS Roma,3.24,2.17,3.55
+Europe,Europa League,2021-02-18,2021-01-04,13:14,FK Crvena zvezda,AC Milan,4.66,1.75,3.78
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Dyn. Kyiv,Club Brugge KV,2.51,2.77,3.45
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Krasnodar,D. Zagreb,2.14,3.57,3.33
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Olympiacos Piraeus,PSV,2.08,3.47,3.56
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Real Sociedad,Manchester Utd,2.74,2.52,3.45
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Slavia Prague,Leicester,3.47,2.07,3.55
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Wolfsberger AC,Tottenham,5.61,1.59,4.13
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Young Boys,Bayer Leverkusen,3.71,1.93,3.79
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Antwerp,Rangers,3.38,2.11,3.56
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Benfica,Arsenal,2.42,2.84,3.51
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Granada CF,Napoli,3.56,2.08,3.46
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Lille,Ajax,2.73,2.54,3.44
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Maccabi Tel Aviv,Shakhtar Donetsk,3.98,1.97,3.44
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Molde,Hoffenheim,4.56,1.73,3.96
+Europe,Europa League,2021-02-18,2021-01-04,13:14,Salzburg,Villarreal,2.22,3.08,3.66
+,,,,,,,,,
+Europe,Euro 2020,2021-06-11,2021-01-04,13:14,Turkey,Italy,8.09,1.47,4.08
+Europe,Euro 2020,2021-06-12,2021-01-04,13:14,Wales,Switzerland,3.51,2.31,3.04
+Europe,Euro 2020,2021-06-12,2021-01-04,13:14,Denmark,Finland,1.51,6.86,4.15
+Europe,Euro 2020,2021-06-12,2021-01-04,13:14,Belgium,Russia,1.78,4.72,3.66
+Europe,Euro 2020,2021-06-13,2021-01-04,13:14,England,Croatia,1.85,4.48,3.51
+Europe,Euro 2020,2021-06-13,2021-01-04,13:14,Austria,North Macedonia,1.48,7.56,4.24
+Europe,Euro 2020,2021-06-13,2021-01-04,13:14,Netherlands,Ukraine,1.60,6.06,3.9
+Europe,Euro 2020,2021-06-14,2021-01-04,13:14,Scotland,Czech Republic,2.71,2.76,3.18
+Europe,Euro 2020,2021-06-14,2021-01-04,13:14,Poland,Slovakia,1.86,4.59,3.44
+Europe,Euro 2020,2021-06-14,2021-01-04,13:14,Spain,Sweden,1.39,8.26,4.77
+Europe,Euro 2020,2021-06-15,2021-01-04,13:14,Hungary,Portugal,5.38,1.67,3.83
+Europe,Euro 2020,2021-06-15,2021-01-04,13:14,France,Germany,3.10,2.42,3.19
+Europe,Euro 2020,2021-06-16,2021-01-04,13:14,Finland,Russia,5.83,1.69,3.84
+Europe,Euro 2020,2021-06-16,2021-01-04,13:14,Turkey,Wales,2.55,2.96,3.42
+Europe,Euro 2020,2021-06-16,2021-01-04,13:14,Italy,Switzerland,1.88,4.57,3.68
+Europe,Euro 2020,2021-06-17,2021-01-04,13:14,Ukraine,North Macedonia,1.69,6.13,3.72
+Europe,Euro 2020,2021-06-17,2021-01-04,13:14,Denmark,Belgium,4.08,2.03,3.58
+Europe,Euro 2020,2021-06-17,2021-01-04,13:14,Netherlands,Austria,1.50,7.05,4.6
+Europe,Euro 2020,2021-06-18,2021-01-04,13:14,Sweden,Slovakia,1.77,5.35,3.68
+Europe,Euro 2020,2021-06-18,2021-01-04,13:14,Croatia,Czech Republic,2.06,4.04,3.45
+Europe,Euro 2020,2021-06-18,2021-01-04,13:14,England,Scotland,1.40,8.9,5.15
+Europe,Euro 2020,2021-06-19,2021-01-04,13:14,Hungary,France,7.25,1.48,4.8
+Europe,Euro 2020,2021-06-19,2021-01-04,13:14,Portugal,Germany,3.77,2.05,3.7
+Europe,Euro 2020,2021-06-19,2021-01-04,13:14,Spain,Poland,1.57,6.3,4.4
+Europe,Euro 2020,2021-06-20,2021-01-04,13:14,Italy,Wales,1.57,6.72,4.2
+Europe,Euro 2020,2021-06-20,2021-01-04,13:14,Switzerland,Turkey,2.48,3.01,3.46
+Europe,Euro 2020,2021-06-21,2021-01-04,13:14,North Macedonia,Netherlands,17.13,1.23,6.7
+Europe,Euro 2020,2021-06-21,2021-01-04,13:14,Ukraine,Austria,2.49,3.08,3.36
+Europe,Euro 2020,2021-06-21,2021-01-04,13:14,Finland,Belgium,11.63,1.29,6.05
+Europe,Euro 2020,2021-06-21,2021-01-04,13:14,Russia,Denmark,3.89,2.11,3.42
+Europe,Euro 2020,2021-06-22,2021-01-04,13:14,Croatia,Scotland,2.16,3.73,3.42
+Europe,Euro 2020,2021-06-22,2021-01-04,13:14,Czech Republic,England,8.20,1.4,5.25
+Europe,Euro 2020,2021-06-23,2021-01-04,13:14,Slovakia,Spain,14.38,1.25,6.65
+Europe,Euro 2020,2021-06-23,2021-01-04,13:14,Sweden,Poland,2.81,2.67,3.4
+Europe,Euro 2020,2021-06-23,2021-01-04,13:14,Germany,Hungary,1.13,27.0,10.0
+Europe,Euro 2020,2021-06-23,2021-01-04,13:14,Portugal,France,3.79,2.19,3.3
+,,,,,,,,,
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Brest,Nice,2.24,3.09,3.64
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Lorient,Monaco,4.44,1.77,3.95
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Metz,Bordeaux,2.66,2.87,3.14
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Nantes,Rennes,3.61,2.12,3.42
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Strasbourg,Nimes,1.59,5.9,4.07
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Lille,Angers,1.61,5.9,3.97
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Lyon,Lens,1.46,6.69,4.84
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Marseille,Montpellier,2.07,3.72,3.45
+France,Ligue 1,2021-01-06,2021-01-04,13:14,Reims,Dijon,1.85,4.38,3.65
+France,Ligue 1,2021-01-06,2021-01-04,13:14,St Etienne,Paris SG,7.50,1.41,5.1
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Bordeaux,Lorient,2.07,3.6,3.41
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Dijon,Marseille,3.73,2.03,3.43
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Lens,Strasbourg,2.21,3.39,3.28
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Metz,Nice,2.52,2.87,3.23
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Monaco,Angers,1.66,4.99,4.05
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Montpellier,Nantes,2.10,3.55,3.41
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Nimes,Lille,6.41,1.55,4.02
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Paris SG,Brest,1.16,16.11,8.02
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Reims,St Etienne,2.58,2.88,3.13
+France,Ligue 1,2021-01-09,2021-01-04,13:14,Rennes,Lyon,3.18,2.31,3.29
+,,,,,,,,,
+Germany,Bundesliga,2021-01-08,2021-01-04,13:14,B. Monchengladbach,Bayern Munich,4.79,1.63,4.63
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,Bayer Leverkusen,Werder Bremen,1.48,6.72,4.64
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,Freiburg,FC Koln,1.96,3.89,3.62
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,Mainz,Eintracht Frankfurt,3.62,1.95,3.9
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,Schalke,Hoffenheim,3.97,1.87,3.92
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,Union Berlin,Wolfsburg,2.74,2.65,3.33
+Germany,Bundesliga,2021-01-09,2021-01-04,13:14,RB Leipzig,Dortmund,2.35,3.02,3.51
+Germany,Bundesliga,2021-01-10,2021-01-04,13:14,Augsburg,Stuttgart,3.39,2.09,3.73
+Germany,Bundesliga,2021-01-10,2021-01-04,13:14,Arminia Bielefeld,Hertha Berlin,3.89,1.98,3.56
+Germany,Bundesliga,2021-01-15,2021-01-04,13:14,Union Berlin,Bayer Leverkusen,4.08,1.95,3.48
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,FC Koln,Hertha Berlin,3.15,2.31,3.37
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,Dortmund,Mainz,1.24,11.48,6.48
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,Hoffenheim,Arminia Bielefeld,1.58,5.47,4.3
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,Werder Bremen,Augsburg,2.28,3.21,3.38
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,Wolfsburg,RB Leipzig,3.46,2.06,3.65
+Germany,Bundesliga,2021-01-16,2021-01-04,13:14,Stuttgart,B. Monchengladbach,2.74,2.41,3.75
+Germany,Bundesliga,2021-01-17,2021-01-04,13:14,Bayern Munich,Freiburg,1.22,11.44,7.09
+Germany,Bundesliga,2021-01-17,2021-01-04,13:14,Eintracht Frankfurt,Schalke,1.50,6.1,4.56
+,,,,,,,,,
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Cagliari,Benevento,2.48,3.02,3.3
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Atalanta,Parma,1.30,9.53,5.95
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Bologna,Udinese,2.74,2.74,3.22
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Crotone,AS Roma,6.98,1.44,4.93
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Lazio,Fiorentina,1.83,4.23,3.86
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Sampdoria,Inter,5.92,1.57,4.23
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Sassuolo,Genoa,1.85,4.44,3.66
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Torino,Verona,2.57,2.84,3.35
+Italy,Serie A,2021-01-06,2021-01-04,13:14,Napoli,Spezia,1.21,13.77,7.1
+Italy,Serie A,2021-01-06,2021-01-04,13:14,AC Milan,Juventus,3.21,2.34,3.36
+Italy,Serie A,2021-01-09,2021-01-04,13:14,Benevento,Atalanta,5.50,1.64,4.46
+Italy,Serie A,2021-01-09,2021-01-04,13:14,Genoa,Bologna,2.74,2.8,3.4
+Italy,Serie A,2021-01-09,2021-01-04,13:14,AC Milan,Torino,1.56,5.8,4.98
+Italy,Serie A,2021-01-10,2021-01-04,13:14,AS Roma,Inter,3.22,2.29,3.74
+Italy,Serie A,2021-01-10,2021-01-04,13:14,Parma,Lazio,4.66,1.81,4.04
+Italy,Serie A,2021-01-10,2021-01-04,13:14,Udinese,Napoli,4.46,1.82,4.14
+Italy,Serie A,2021-01-10,2021-01-04,13:14,Verona,Crotone,2.05,3.84,3.74
+Italy,Serie A,2021-01-10,2021-01-04,13:14,Fiorentina,Cagliari,2.20,3.5,3.6
+Italy,Serie A,2021-01-10,2021-01-04,13:14,Juventus,Sassuolo,1.53,6.1,5.05
+Italy,Serie A,2021-01-11,2021-01-04,13:14,Spezia,Sampdoria,2.70,2.7,3.62
+,,,,,,,,,
+Spain,LaLiga,2021-01-04,2021-01-04,13:14,Valencia,Cadiz CF,1.99,4.11,3.4
+Spain,LaLiga,2021-01-06,2021-01-04,13:14,Ath Bilbao,Barcelona,4.48,1.79,3.87
+Spain,LaLiga,2021-01-08,2021-01-04,13:14,Celta Vigo,Villarreal,3.03,2.42,3.38
+Spain,LaLiga,2021-01-09,2021-01-04,13:14,Sevilla,Real Sociedad,2.23,3.78,3.09
+Spain,LaLiga,2021-01-09,2021-01-04,13:14,Atl. Madrid,Ath Bilbao,1.56,7.14,3.83
+Spain,LaLiga,2021-01-09,2021-01-04,13:14,Granada CF,Barcelona,5.61,1.57,4.45
+Spain,LaLiga,2021-01-09,2021-01-04,13:14,Osasuna,Real Madrid,6.73,1.49,4.48
+Spain,LaLiga,2021-01-10,2021-01-04,13:14,Levante,Eibar,2.34,3.12,3.41
+Spain,LaLiga,2021-01-10,2021-01-04,13:14,Cadiz CF,Alaves,2.76,2.95,2.94
+Spain,LaLiga,2021-01-10,2021-01-04,13:14,Elche,Getafe,4.47,2.09,2.94
+Spain,LaLiga,2021-01-10,2021-01-04,13:14,Valladolid,Valencia,2.46,3.09,3.22
+Spain,LaLiga,2021-01-11,2021-01-04,13:14,Huesca,Betis,2.82,2.58,3.33
+Spain,LaLiga,2021-01-12,2021-01-04,13:14,Granada CF,Osasuna,2.40,3.73,2.77
+Spain,LaLiga,2021-01-12,2021-01-04,13:14,Atl. Madrid,Sevilla,2.01,4.43,3.08
+Spain,LaLiga,2021-04-04,2021-01-04,13:14,Real Sociedad,Ath Bilbao,2.47,2.88,3.09
+,,,,,,,,,
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Belgium,Wales,1.31,8.9,5.25
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Cyprus,Slovakia,3.62,2.07,3.47
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Estonia,Czech Republic,8.90,1.31,5.25
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Finland,Bosnia & Herzegovina,2.52,2.88,3.1
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,France,Ukraine,1.35,8.9,4.7
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Gibraltar,Norway,67.50,1.03,19.5
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Latvia,Montenegro,4.71,1.8,3.42
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Malta,Russia,40.00,1.13,7.22
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Portugal,Azerbaijan,1.04,52.5,17.0
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Serbia,Ireland,1.75,4.95,3.4
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Slovenia,Croatia,5.30,1.71,3.65
+World,World Cup 2022,2021-03-24,2021-01-04,13:15,Turkey,Netherlands,4.63,1.8,3.42
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Andorra,Albania,7.95,1.46,3.95
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Bulgaria,Switzerland,6.95,1.46,4.25
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,England,San Marino,-,102.5,41.0
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Germany,Iceland,1.16,17.75,6.5
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Hungary,Poland,3.29,2.33,2.99
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Israel,Denmark,4.95,1.75,3.4
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Italy,Northern Ireland,1.16,18.5,7.0
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Liechtenstein,Armenia,9.10,1.31,5.25
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Moldova,Faroe Islands,2.38,3.25,2.99
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Romania,North Macedonia,1.69,5.31,3.45
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Scotland,Austria,3.29,2.33,2.99
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Spain,Greece,1.16,18.5,6.75
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Sweden,Georgia,1.27,10.3,5.75
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Argentina,Uruguay,1.72,4.95,3.5
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Bolivia,Peru,2.20,3.07,3.45
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Chile,Paraguay,1.90,4.0,3.4
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Colombia,Brazil,2.98,2.37,3.2
+World,World Cup 2022,2021-03-25,2021-01-04,13:15,Venezuela,Ecuador,2.65,2.67,3.15
+World,World Cup 2022,2021-03-27,2021-01-04,13:15,Russia,Slovenia,1.55,6.35,3.7
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Slovakia,Russia,2.65,2.65,3.1
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Brazil,Argentina,1.98,3.68,3.4
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Ecuador,Chile,1.98,3.63,3.45
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Paraguay,Colombia,2.78,2.6,3.07
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Peru,Venezuela,2.07,3.78,3.1
+World,World Cup 2022,2021-03-30,2021-01-04,13:15,Uruguay,Bolivia,1.22,11.5,6.1
+World,World Cup 2022,2021-06-03,2021-01-04,13:15,Argentina,Chile,1.68,4.9,3.7
+World,World Cup 2022,2021-06-03,2021-01-04,13:15,Bolivia,Venezuela,1.95,3.87,3.35
+World,World Cup 2022,2021-06-03,2021-01-04,13:15,Brazil,Ecuador,1.31,8.9,5.15
+World,World Cup 2022,2021-06-03,2021-01-04,13:15,Peru,Colombia,2.95,2.38,3.22
+World,World Cup 2022,2021-06-03,2021-01-04,13:15,Uruguay,Paraguay,1.80,4.5,3.42
+World,World Cup 2022,2021-06-08,2021-01-04,13:15,Chile,Bolivia,1.23,12.5,5.65
+World,World Cup 2022,2021-06-08,2021-01-04,13:15,Colombia,Argentina,2.52,2.8,3.17
+World,World Cup 2022,2021-06-08,2021-01-04,13:15,Ecuador,Peru,1.77,4.55,3.5
+World,World Cup 2022,2021-06-08,2021-01-04,13:15,Paraguay,Brazil,3.95,1.88,3.5
+World,World Cup 2022,2021-06-08,2021-01-04,13:15,Venezuela,Uruguay,3.40,2.12,3.28
+World,World Cup 2022,2021-09-01,2021-01-04,13:15,Russia,Croatia,3.09,2.34,3.1
+World,World Cup 2022,2021-09-04,2021-01-04,13:15,Cyprus,Russia,6.35,1.5,4.0
+World,World Cup 2022,2021-09-07,2021-01-04,13:15,Russia,Malta,1.03,32.0,14.0
+World,World Cup 2022,2021-10-08,2021-01-04,13:15,Russia,Slovakia,1.97,4.16,3.1
+World,World Cup 2022,2021-10-11,2021-01-04,13:15,Slovenia,Russia,3.38,2.2,3.1
+World,World Cup 2022,2021-11-11,2021-01-04,13:15,Russia,Cyprus,1.22,13.5,5.6
+World,World Cup 2022,2021-11-14,2021-01-04,13:15,Croatia,Russia,1.64,4.98,3.8
+,,,,,,,,,
+Africa,CAF Champions League,2021-01-05,2021-01-04,13:15,Al Ahly (Egy) ,SONIDEP (Nig) ,1.04,25.4,8.94
+,,,,,,,,,
+Africa,CAF Confederations Cup,2021-01-05,2021-01-04,13:15,Hilal El Obied (Sud) ,Namungo (Tan) ,1.66,4.24,3.48
+Africa,CAF Confederations Cup,2021-01-05,2021-01-04,13:15,JS Kabylie (Alg) ,US Gendarmerie (Nig) ,1.17,10.83,5.7
+,,,,,,,,,
+Argentina,Copa Diego Maradona,2021-01-04,2021-01-04,13:15,Central Cordoba,Racing Club,3.72,1.91,3.56
+Argentina,Copa Diego Maradona,2021-01-04,2021-01-04,13:15,Aldosivi,Union de Santa Fe,2.98,2.43,3.07
+Argentina,Copa Diego Maradona,2021-01-04,2021-01-04,13:15,San Lorenzo,Gimnasia L.P.,2.27,3.2,3.09
+Argentina,Copa Diego Maradona,2021-01-05,2021-01-04,13:15,Talleres Cordoba,Banfield,2.25,3.26,3.1
+Argentina,Copa Diego Maradona,2021-01-05,2021-01-04,13:15,Huracan,Argentinos Jrs,2.74,2.58,2.96
+Argentina,Copa Diego Maradona,2021-01-05,2021-01-04,13:15,Godoy Cruz,Estudiantes L.P.,3.19,2.24,3.03
+Argentina,Copa Diego Maradona,2021-01-06,2021-01-04,13:15,Atl. Tucuman,Colon Santa FE,2.49,2.81,2.99
+,,,,,,,,,
+Argentina,Primera Nacional,2021-01-04,2021-01-04,13:15,Temperley,Deportivo Moron,2.61,3.0,2.72
+Argentina,Primera Nacional,2021-01-04,2021-01-04,13:15,Agropecuario,Ferro,2.08,3.72,2.97
+Argentina,Primera Nacional,2021-01-04,2021-01-04,13:15,Instituto,Quilmes,2.46,3.08,2.78
+Argentina,Primera Nacional,2021-01-04,2021-01-04,13:15,CA Estudiantes,Platense,2.34,3.15,2.89
+,,,,,,,,,
+Argentina,Primera B,2021-01-04,2021-01-04,13:15,Defensores Unidos,San Miguel,3.42,2.25,2.85
+Argentina,Primera B,2021-01-04,2021-01-04,13:15,Fenix,Deportivo Armenio,2.85,2.5,2.98
+Argentina,Primera B,2021-01-04,2021-01-04,13:15,Talleres (R.E),San Telmo,2.52,2.91,2.89
+,,,,,,,,,
+Argentina,Primera C,2021-01-04,2021-01-04,13:15,Canuelas,Dock Sud,2.69,2.65,2.9
+Argentina,Primera C,2021-01-04,2021-01-04,13:15,General Lamadrid,Dep. Merlo,2.37,3.14,2.82
+Argentina,Primera C,2021-01-04,2021-01-04,13:15,Laferrere,Real Pilar,2.85,2.63,2.77
+,,,,,,,,,
+Argentina,Primera D,2021-01-04,2021-01-04,13:15,Deportivo Muniz,Yupanqui,2.71,2.57,2.94
+Argentina,Primera D,2021-01-04,2021-01-04,13:15,Def. de Cambaceres,Liniers,2.97,2.51,2.76
+,,,,,,,,,
+Australia,A-League,2021-01-08,2021-01-04,13:15,Newcastle Jets,WS Wanderers,2.99,2.29,3.44
+Australia,A-League,2021-01-09,2021-01-04,13:15,Macarthur FC,Wellington Phoenix,2.38,2.9,3.38
+Australia,A-League,2021-01-10,2021-01-04,13:15,Brisbane Roar,Melbourne Victory,2.23,3.1,3.39
+,,,,,,,,,
+Austria,Tipico Bundesliga,2021-01-22,2021-01-04,13:15,Rapid Vienna,Sturm Graz,2.35,2.64,3.48
+Austria,Tipico Bundesliga,2021-01-23,2021-01-04,13:15,Ried,Austria Vienna,2.53,2.46,3.47
+Austria,Tipico Bundesliga,2021-01-23,2021-01-04,13:15,St. Polten,Admira,1.66,4.55,3.69
+Austria,Tipico Bundesliga,2021-01-23,2021-01-04,13:15,Wolfsberger AC,Hartberg,1.58,4.78,4.02
+Austria,Tipico Bundesliga,2021-01-24,2021-01-04,13:15,Altach,Salzburg,12.50,1.17,6.38
+Austria,Tipico Bundesliga,2021-01-24,2021-01-04,13:15,LASK,Tirol,1.32,7.06,5.11
+,,,,,,,,,
+Bangladesh,Federation Cup,2021-01-04,2021-01-04,13:15,Abahani Limited,Baridhara,1.31,7.21,4.98
+,,,,,,,,,
+Belgium,Jupiler League,2021-01-06,2021-01-04,13:15,Eupen,Genk,3.62,1.93,3.78
+Belgium,Jupiler League,2021-01-09,2021-01-04,13:15,Waregem,Mouscron,1.91,3.98,3.5
+Belgium,Jupiler League,2021-01-09,2021-01-04,13:15,Cercle Brugge KSV,Eupen,2.48,2.7,3.45
+Belgium,Jupiler League,2021-01-09,2021-01-04,13:15,Kortrijk,Genk,3.35,2.16,3.36
+Belgium,Jupiler League,2021-01-09,2021-01-04,13:15,Oostende,Charleroi,2.71,2.51,3.39
+Belgium,Jupiler League,2021-01-10,2021-01-04,13:15,KV Mechelen,Antwerp,2.84,2.4,3.4
+Belgium,Jupiler League,2021-01-10,2021-01-04,13:15,Beerschot VA,Gent,2.65,2.41,3.68
+Belgium,Jupiler League,2021-01-10,2021-01-04,13:15,Leuven,Anderlecht,3.57,1.95,3.73
+Belgium,Jupiler League,2021-01-10,2021-01-04,13:15,St. Truiden,Club Brugge KV,5.93,1.51,4.32
+Belgium,Jupiler League,2021-01-11,2021-01-04,13:15,St. Liege,Waasland-Beveren,1.47,6.42,4.35
+Belgium,Jupiler League,2021-01-12,2021-01-04,13:15,Oostende,Eupen,1.94,3.61,3.82
+Belgium,Jupiler League,2021-01-13,2021-01-04,13:15,Beerschot VA,Cercle Brugge KSV,1.79,4.19,3.88
+Belgium,Jupiler League,2021-01-15,2021-01-04,13:15,Eupen,Anderlecht,3.63,1.93,3.67
+Belgium,Jupiler League,2021-01-16,2021-01-04,13:15,Oostende,Kortrijk,2.17,3.12,3.53
+Belgium,Jupiler League,2021-01-16,2021-01-04,13:15,Mouscron,Genk,4.30,1.71,4.03
+Belgium,Jupiler League,2021-01-16,2021-01-04,13:15,Waasland-Beveren,Waregem,2.80,2.32,3.59
+Belgium,Jupiler League,2021-01-16,2021-01-04,13:15,Charleroi,KV Mechelen,2.09,3.13,3.72
+Belgium,Jupiler League,2021-01-17,2021-01-04,13:15,Gent,Antwerp,2.25,2.8,3.79
+Belgium,Jupiler League,2021-01-17,2021-01-04,13:15,Cercle Brugge KSV,St. Liege,2.94,2.21,3.66
+Belgium,Jupiler League,2021-01-17,2021-01-04,13:15,Beerschot VA,Club Brugge KV,3.93,1.79,3.94
+Belgium,Jupiler League,2021-01-17,2021-01-04,13:15,St. Truiden,Leuven,2.05,3.29,3.66
+,,,,,,,,,
+Brazil,Serie A,2021-01-06,2021-01-04,13:15,Botafogo RJ,Athletico-PR,2.67,2.78,3.06
+Brazil,Serie A,2021-01-06,2021-01-04,13:15,Gremio,Bahia,1.56,5.92,3.99
+Brazil,Serie A,2021-01-06,2021-01-04,13:15,Coritiba,Goias,2.13,3.51,3.28
+Brazil,Serie A,2021-01-06,2021-01-04,13:15,Sport Recife,Fortaleza,2.28,3.41,3.07
+Brazil,Serie A,2021-01-07,2021-01-04,13:15,Bragantino,Sao Paulo,3.29,2.24,3.26
+Brazil,Serie A,2021-01-07,2021-01-04,13:15,Flamengo RJ,Fluminense,1.51,6.54,4.22
+Brazil,Serie A,2021-01-07,2021-01-04,13:15,Ceara,Internacional,2.56,2.81,3.18
+Brazil,Serie A,2021-01-08,2021-01-04,13:15,Atletico GO,Vasco,1.99,3.82,3.38
+,,,,,,,,,
+Brazil,Serie B,2021-01-04,2021-01-04,13:15,Parana,Botafogo SP,2.11,3.94,2.83
+Brazil,Serie B,2021-01-04,2021-01-04,13:15,Confianca,Nautico,2.32,3.33,2.89
+,,,,,,,,,
+Brazil,Serie C,2021-01-04,2021-01-04,13:15,Londrina,Paysandu PA,2.17,3.34,2.97
+,,,,,,,,,
+Brazil,Brasileiro U20,2021-01-04,2021-01-04,13:15,Fluminense U20,Flamengo RJ U20,2.69,2.32,3.35
+,,,,,,,,,
+Chile,Primera Division,2021-01-04,2021-01-04,13:15,Palestino,Curico Unido,1.55,5.4,4.14
+Chile,Primera Division,2021-01-04,2021-01-04,13:15,U. Catolica,Huachipato,1.48,6.13,4.22
+Chile,Primera Division,2021-01-05,2021-01-04,13:15,A. Italiano,U. Espanola,2.49,2.59,3.53
+Chile,Primera Division,2021-01-06,2021-01-04,13:15,S. Wanderers,Colo Colo,2.85,2.39,3.27
+Chile,Primera Division,2021-01-06,2021-01-04,13:15,U. De Chile,O'Higgins,1.88,3.98,3.42
+,,,,,,,,,
+Chile,Segunda Division,2021-01-04,2021-01-04,13:16,Arturo Fernandez Vial,Recoleta,1.96,3.25,3.44
+Chile,Segunda Division,2021-01-05,2021-01-04,13:16,Colchagua,AC Colina,2.38,2.48,3.38
+Chile,Segunda Division,2021-01-05,2021-01-04,13:16,Ind. Cauquenes,Lautaro,4.67,1.53,3.95
+Chile,Segunda Division,2021-01-05,2021-01-04,13:16,San Antonio Unido,D. Concepcion,2.21,2.71,3.38
+,,,,,,,,,
+Chile,Primera B,2021-01-04,2021-01-04,13:16,San Luis,S. Morning,2.02,3.53,3.18
+,,,,,,,,,
+Croatia,1. HNL,2021-01-23,2021-01-04,13:16,Gorica,D. Zagreb,3.80,1.83,3.49
+Croatia,1. HNL,2021-01-23,2021-01-04,13:16,Istra 1961,Slaven Belupo,2.89,2.29,3.19
+Croatia,1. HNL,2021-01-23,2021-01-04,13:16,Lok. Zagreb,Osijek,4.48,1.65,3.77
+Croatia,1. HNL,2021-01-23,2021-01-04,13:16,Sibenik,Hajduk Split,3.79,1.86,3.39
+Croatia,1. HNL,2021-01-23,2021-01-04,13:16,Varazdin,Rijeka,4.87,1.63,3.6
+,,,,,,,,,
+Czech Republic,1. Liga,2021-01-15,2021-01-04,13:16,Teplice,Jablonec,3.35,2.05,3.2
+Czech Republic,1. Liga,2021-01-16,2021-01-04,13:16,Mlada Boleslav,Brno,1.83,3.9,3.3
+Czech Republic,1. Liga,2021-01-16,2021-01-04,13:16,Opava,Zlin,2.95,2.3,3.0
+Czech Republic,1. Liga,2021-01-16,2021-01-04,13:16,Liberec,Bohemians 1905,1.69,4.4,3.5
+Czech Republic,1. Liga,2021-01-16,2021-01-04,13:16,Slovacko,Karvina,1.69,4.25,3.6
+Czech Republic,1. Liga,2021-01-16,2021-01-04,13:16,Slavia Prague,Sigma Olomouc,1.20,9.75,5.75
+Czech Republic,1. Liga,2021-01-17,2021-01-04,13:16,FK Pardubice,Ceske Budejovice,2.25,2.95,3.1
+Czech Republic,1. Liga,2021-01-17,2021-01-04,13:16,Pribram,Plzen,6.00,1.49,3.65
+Czech Republic,1. Liga,2021-01-17,2021-01-04,13:16,Ostrava,Sparta Prague,3.30,2.05,3.2
+,,,,,,,,,
+Denmark,1st Division,2021-02-12,2021-01-04,13:16,Kolding IF,Helsingor,2.55,2.48,3.6
+Denmark,1st Division,2021-02-12,2021-01-04,13:16,Viborg,Fredericia,1.95,3.45,3.7
+Denmark,1st Division,2021-02-13,2021-01-04,13:16,Esbjerg,Vendsyssel,1.60,5.25,3.8
+Denmark,1st Division,2021-02-13,2021-01-04,13:16,Koge,Hobro,2.43,2.65,3.45
+Denmark,1st Division,2021-02-14,2021-01-04,13:16,F. Amager,Skive IK,1.65,4.9,3.75
+Denmark,1st Division,2021-02-14,2021-01-04,13:16,Silkeborg,Hvidovre IF,1.70,4.25,3.95
+,,,,,,,,,
+Denmark,Superliga,2021-02-02,2021-01-04,13:16,Randers FC,Horsens,1.59,5.31,4.08
+Denmark,Superliga,2021-02-02,2021-01-04,13:16,Vejle,Aarhus,4.07,1.82,3.77
+Denmark,Superliga,2021-02-03,2021-01-04,13:16,Odense,Lyngby,1.53,5.85,4.23
+Denmark,Superliga,2021-02-03,2021-01-04,13:16,Aalborg,FC Copenhagen,3.20,2.12,3.59
+Denmark,Superliga,2021-02-04,2021-01-04,13:16,Midtjylland,Sonderjyske,1.42,7.05,4.6
+Denmark,Superliga,2021-02-04,2021-01-04,13:16,Nordsjaelland,Brondby,2.97,2.21,3.67
+,,,,,,,,,
+England,Championship,2021-01-12,2021-01-04,13:16,Bournemouth,Millwall,1.76,4.78,3.54
+England,Championship,2021-01-16,2021-01-04,13:16,Middlesbrough,Birmingham,1.84,4.57,3.38
+England,Championship,2021-01-16,2021-01-04,13:16,Blackburn,Stoke,2.03,3.75,3.35
+England,Championship,2021-01-16,2021-01-04,13:16,Bournemouth,Luton,1.58,5.81,3.96
+England,Championship,2021-01-16,2021-01-04,13:16,Bristol City,Preston,2.47,2.84,3.32
+England,Championship,2021-01-16,2021-01-04,13:16,Cardiff,Norwich,3.10,2.3,3.31
+England,Championship,2021-01-16,2021-01-04,13:16,Coventry,Sheffield Wed,2.28,3.32,3.17
+England,Championship,2021-01-16,2021-01-04,13:16,Derby,Rotherham,1.90,4.13,3.5
+England,Championship,2021-01-16,2021-01-04,13:16,Nottingham,Millwall,2.48,3.15,2.98
+England,Championship,2021-01-16,2021-01-04,13:16,QPR,Wycombe,1.78,4.31,3.8
+England,Championship,2021-01-16,2021-01-04,13:16,Reading,Brentford,3.87,2.02,3.29
+England,Championship,2021-01-16,2021-01-04,13:16,Watford,Huddersfield,1.70,4.93,3.76
+England,Championship,2021-01-16,2021-01-04,13:16,Barnsley,Swansea,2.71,2.71,3.14
+England,Championship,2021-01-19,2021-01-04,13:16,Blackburn,Swansea,2.26,3.04,3.25
+England,Championship,2021-01-19,2021-01-04,13:16,Norwich,Bristol City,1.58,5.67,3.65
+England,Championship,2021-01-19,2021-01-04,13:16,Reading,Coventry,2.16,3.24,3.3
+England,Championship,2021-01-19,2021-01-04,13:16,Sheffield Wed,Wycombe,1.93,3.73,3.4
+England,Championship,2021-01-19,2021-01-04,13:16,Derby,Bournemouth,3.53,2.02,3.33
+England,Championship,2021-01-19,2021-01-04,13:16,Rotherham,Stoke,3.17,2.36,2.94
+England,Championship,2021-01-19,2021-01-04,13:16,Watford,Barnsley,1.83,4.09,3.45
+England,Championship,2021-01-20,2021-01-04,13:16,Cardiff,QPR,1.96,3.66,3.4
+England,Championship,2021-01-20,2021-01-04,13:16,Nottingham,Middlesbrough,2.48,2.94,2.94
+England,Championship,2021-01-20,2021-01-04,13:16,Birmingham,Preston,2.42,2.99,3.08
+England,Championship,2021-01-20,2021-01-04,13:16,Brentford,Luton,1.58,5.19,3.82
+England,Championship,2021-01-20,2021-01-04,13:16,Huddersfield,Millwall,2.55,2.71,3.13
+,,,,,,,,,
+England,EFL Cup,2021-01-05,2021-01-04,13:16,Tottenham,Brentford,1.48,6.7,4.53
+England,EFL Cup,2021-01-06,2021-01-04,13:16,Manchester Utd,Manchester City,3.61,2.02,3.71
+,,,,,,,,,
+England,National League,2021-01-05,2021-01-04,13:16,Solihull Moors,Chesterfield,2.17,3.08,3.45
+England,National League,2021-01-05,2021-01-04,13:16,Stockport,Eastleigh,1.81,4.52,3.34
+England,National League,2021-01-05,2021-01-04,13:16,Weymouth,Yeovil,3.70,1.9,3.59
+England,National League,2021-01-09,2021-01-04,13:16,Aldershot,Barnet,1.95,3.53,3.57
+England,National League,2021-01-09,2021-01-04,13:16,Altrincham,Sutton,3.78,1.92,3.44
+England,National League,2021-01-09,2021-01-04,13:16,Bromley,Chesterfield,2.19,3.04,3.46
+England,National League,2021-01-09,2021-01-04,13:16,Eastleigh,Notts Co,3.07,2.22,3.35
+England,National League,2021-01-09,2021-01-04,13:16,Hartlepool,Wealdstone,1.64,4.73,3.95
+England,National League,2021-01-09,2021-01-04,13:16,King’s Lynn,FC Halifax,2.76,2.33,3.53
+England,National League,2021-01-09,2021-01-04,13:16,Wrexham,Woking,2.07,3.38,3.36
+,,,,,,,,,
+England,National League North,2021-01-05,2021-01-04,13:16,Boston Utd,Kettering,1.61,4.36,4.04
+England,National League North,2021-01-05,2021-01-04,13:16,Brackley Town,Darlington,1.80,3.79,3.55
+England,National League North,2021-01-05,2021-01-04,13:16,Chester,Guiseley,1.61,4.27,4.11
+England,National League North,2021-01-05,2021-01-04,13:16,Kidderminster,York,2.52,2.44,3.41
+England,National League North,2021-01-05,2021-01-04,13:16,Spennymoor,Hereford,1.72,4.04,3.7
+,,,,,,,,,
+England,National League South,2021-01-05,2021-01-04,13:16,Dorking,Ebbsfleet,2.30,2.71,3.37
+England,National League South,2021-01-05,2021-01-04,13:16,Dulwich Hamlet,Maidstone,2.34,2.72,3.44
+England,National League South,2021-01-05,2021-01-04,13:16,Hungerford,Havant & W,4.31,1.61,4.04
+England,National League South,2021-01-06,2021-01-04,13:16,Billericay,Oxford City,2.91,2.2,3.37
+,,,,,,,,,
+England,League One,2021-01-04,2021-01-04,13:16,Fleetwood,Ipswich,2.12,3.38,3.28
+England,League One,2021-01-06,2021-01-04,13:16,AFC Wimbledon,Wigan,2.15,3.46,3.38
+England,League One,2021-01-08,2021-01-04,13:16,Charlton,Accrington,2.34,2.98,3.34
+England,League One,2021-01-09,2021-01-04,13:16,Lincoln,Peterborough,2.42,2.87,3.27
+England,League One,2021-01-09,2021-01-04,13:16,Gillingham,Burton,2.00,3.54,3.56
+England,League One,2021-01-09,2021-01-04,13:16,Sunderland,Fleetwood,1.80,4.25,3.7
+England,League One,2021-01-09,2021-01-04,13:16,Ipswich,Swindon,1.76,4.35,3.79
+England,League One,2021-01-09,2021-01-04,13:16,Wigan,Hull,5.34,1.67,3.7
+England,League One,2021-01-12,2021-01-04,13:16,Charlton,Rochdale,1.72,4.7,3.45
+England,League One,2021-01-16,2021-01-04,13:16,Accrington,Gillingham,2.42,3.0,3.25
+England,League One,2021-01-16,2021-01-04,13:16,AFC Wimbledon,Sunderland,4.49,1.77,3.76
+England,League One,2021-01-16,2021-01-04,13:16,Bristol Rovers,Charlton,3.50,2.12,3.37
+England,League One,2021-01-16,2021-01-04,13:16,Burton,Ipswich,3.75,2.02,3.41
+England,League One,2021-01-16,2021-01-04,13:16,Fleetwood,Portsmouth,3.30,2.22,3.31
+England,League One,2021-01-16,2021-01-04,13:16,Hull,Blackpool,2.12,3.5,3.37
+England,League One,2021-01-16,2021-01-04,13:16,Northampton,Oxford Utd,3.41,2.17,3.31
+England,League One,2021-01-16,2021-01-04,13:16,Peterborough,MK Dons,2.22,3.3,3.31
+England,League One,2021-01-16,2021-01-04,13:16,Plymouth,Crewe,3.30,2.22,3.31
+England,League One,2021-01-16,2021-01-04,13:16,Rochdale,Wigan,2.02,3.75,3.41
+England,League One,2021-01-16,2021-01-04,13:16,Shrewsbury,Lincoln,3.30,2.22,3.31
+England,League One,2021-01-16,2021-01-04,13:16,Swindon,Doncaster,3.66,2.01,3.51
+,,,,,,,,,
+England,League Two,2021-01-05,2021-01-04,13:16,Mansfield,Salford,2.44,2.96,3.24
+England,League Two,2021-01-09,2021-01-04,13:16,Cambridge Utd,Harrogate,2.25,3.21,3.28
+England,League Two,2021-01-09,2021-01-04,13:16,Carlisle,Leyton Orient,1.85,4.03,3.65
+England,League Two,2021-01-09,2021-01-04,13:16,Port Vale,Grimsby,2.02,3.51,3.56
+England,League Two,2021-01-09,2021-01-04,13:16,Salford,Colchester,1.83,4.06,3.71
+England,League Two,2021-01-09,2021-01-04,13:16,Scunthorpe,Bradford City,2.83,2.49,3.24
+England,League Two,2021-01-09,2021-01-04,13:16,Southend,Barrow,3.22,2.2,3.37
+,,,,,,,,,
+England,FA Cup,2021-01-08,2021-01-04,13:16,Aston Villa,Liverpool,3.41,2.01,3.77
+England,FA Cup,2021-01-08,2021-01-04,13:16,Wolves,Crystal Palace,1.99,3.82,3.34
+England,FA Cup,2021-01-09,2021-01-04,13:16,Boreham Wood,Millwall,7.42,1.4,4.63
+England,FA Cup,2021-01-09,2021-01-04,13:16,Everton,Rotherham,1.40,7.36,4.62
+England,FA Cup,2021-01-09,2021-01-04,13:16,Luton,Reading,2.79,2.54,3.18
+England,FA Cup,2021-01-09,2021-01-04,13:16,Norwich,Coventry,1.79,4.35,3.61
+England,FA Cup,2021-01-09,2021-01-04,13:16,Nottingham,Cardiff,2.52,2.77,3.24
+England,FA Cup,2021-01-09,2021-01-04,13:16,Chorley,Derby,11.78,1.21,6.57
+England,FA Cup,2021-01-09,2021-01-04,13:16,Blackburn,Doncaster,1.66,4.68,3.92
+England,FA Cup,2021-01-09,2021-01-04,13:16,Blackpool,West Brom,3.99,1.83,3.68
+England,FA Cup,2021-01-09,2021-01-04,13:16,Bristol Rovers,Sheffield Utd,4.49,1.71,3.82
+England,FA Cup,2021-01-09,2021-01-04,13:16,Burnley,MK Dons,1.53,5.57,4.22
+England,FA Cup,2021-01-09,2021-01-04,13:16,Exeter,Sheffield Wed,3.83,1.89,3.59
+England,FA Cup,2021-01-09,2021-01-04,13:16,Oldham,Bournemouth,5.99,1.48,4.44
+England,FA Cup,2021-01-09,2021-01-04,13:16,QPR,Fulham,3.00,2.31,3.3
+England,FA Cup,2021-01-09,2021-01-04,13:16,Stevenage,Swansea,5.95,1.49,4.31
+England,FA Cup,2021-01-09,2021-01-04,13:16,Stoke,Leicester,4.49,1.77,3.54
+England,FA Cup,2021-01-09,2021-01-04,13:16,Wycombe,Preston,3.69,1.98,3.41
+England,FA Cup,2021-01-09,2021-01-04,13:16,Arsenal,Newcastle,1.50,6.09,4.42
+England,FA Cup,2021-01-09,2021-01-04,13:16,Brentford,Middlesbrough,2.08,3.45,3.35
+England,FA Cup,2021-01-09,2021-01-04,13:16,Huddersfield,Plymouth,1.82,4.13,3.62
+England,FA Cup,2021-01-09,2021-01-04,13:16,Manchester Utd,Watford,1.32,7.94,5.43
+England,FA Cup,2021-01-09,2021-01-04,13:16,Southampton,Shrewsbury,1.32,8.64,5.11
+England,FA Cup,2021-01-10,2021-01-04,13:16,Barnsley,Tranmere,1.52,5.56,4.29
+England,FA Cup,2021-01-10,2021-01-04,13:16,Bristol City,Portsmouth,2.14,3.37,3.25
+England,FA Cup,2021-01-10,2021-01-04,13:16,Chelsea,Morecambe,1.07,24.5,11.05
+England,FA Cup,2021-01-10,2021-01-04,13:16,Cheltenham,Mansfield,1.99,3.71,3.43
+England,FA Cup,2021-01-10,2021-01-04,13:16,Crawley,Leeds,7.85,1.34,5.17
+England,FA Cup,2021-01-10,2021-01-04,13:16,Manchester City,Birmingham,1.15,17.0,8.29
+England,FA Cup,2021-01-10,2021-01-04,13:16,Marine,Tottenham,33.89,1.02,17.5
+England,FA Cup,2021-01-10,2021-01-04,13:16,Newport,Brighton,6.11,1.45,4.6
+England,FA Cup,2021-01-11,2021-01-04,13:16,Stockport,West Ham,8.29,1.3,5.57
+,,,,,,,,,
+Ethiopia,Premier League,2021-01-05,2021-01-04,13:16,St. George,Ethiopia Bunna,2.17,3.25,2.83
+Ethiopia,Premier League,2021-01-05,2021-01-04,13:16,Sebeta City,Jimma Aba Jifar,2.01,3.26,3.2
+,,,,,,,,,
+Europe,UEFA Nations League,2021-10-06,2021-01-04,13:16,Italy,Spain,2.78,2.56,3.5
+Europe,UEFA Nations League,2021-10-07,2021-01-04,13:16,Belgium,France,2.85,2.49,3.53
+,,,,,,,,,
+France,Ligue 2,2021-01-05,2021-01-04,13:17,AC Ajaccio,Pau FC,2.05,4.04,3.07
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Auxerre,Caen,2.06,3.9,3.14
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Chambly,Le Havre,2.78,2.81,2.91
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Clermont,Grenoble,2.08,3.88,3.11
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Guingamp,Amiens,2.51,3.23,2.83
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Rodez,Niort,2.49,3.22,2.89
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Sochaux,Dunkerque,1.99,4.22,3.12
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Toulouse,Paris FC,2.18,3.58,3.1
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Troyes,Chateauroux,1.47,7.21,4.14
+France,Ligue 2,2021-01-05,2021-01-04,13:17,Valenciennes,Nancy,2.49,3.16,2.92
+,,,,,,,,,
+France,National,2021-01-08,2021-01-04,13:17,Villefranche,Stade Briochin,2.10,3.52,2.92
+France,National,2021-01-08,2021-01-04,13:17,Bastia-Borgo,Red Star,3.73,2.22,2.64
+France,National,2021-01-08,2021-01-04,13:17,Boulogne,Annecy,1.94,3.76,3.12
+France,National,2021-01-08,2021-01-04,13:17,Bourg en Bresse,Sporting Club Lyon,2.14,3.41,2.94
+France,National,2021-01-08,2021-01-04,13:17,Concarneau,Orleans,3.07,2.53,2.66
+France,National,2021-01-08,2021-01-04,13:17,Laval,Creteil,2.12,3.5,2.91
+France,National,2021-01-08,2021-01-04,13:17,Le Mans,Cholet,2.04,3.63,2.99
+France,National,2021-01-08,2021-01-04,13:17,Sete,Avranches,2.12,3.39,3.0
+,,,,,,,,,
+France,Super Cup,2021-01-13,2021-01-04,13:17,Paris SG,Marseille,1.49,6.13,4.88
+,,,,,,,,,
+Germany,2. Bundesliga,2021-01-04,2021-01-04,13:17,Dusseldorf,Paderborn,2.36,3.03,3.35
+Germany,2. Bundesliga,2021-01-06,2021-01-04,13:17,Wurzburger Kickers,St. Pauli,3.03,2.26,3.53
+Germany,2. Bundesliga,2021-01-08,2021-01-04,13:17,Karlsruher,Greuther Furth,2.90,2.44,3.28
+Germany,2. Bundesliga,2021-01-08,2021-01-04,13:17,Sandhausen,Heidenheim,3.21,2.19,3.45
+Germany,2. Bundesliga,2021-01-09,2021-01-04,13:17,Nurnberg,Hamburger SV,3.38,2.12,3.42
+Germany,2. Bundesliga,2021-01-09,2021-01-04,13:17,St. Pauli,Holstein Kiel,3.26,2.16,3.47
+Germany,2. Bundesliga,2021-01-09,2021-01-04,13:17,VfL Osnabruck,Wurzburger Kickers,1.81,4.18,3.76
+Germany,2. Bundesliga,2021-01-10,2021-01-04,13:17,Darmstadt,Hannover,2.45,2.73,3.54
+Germany,2. Bundesliga,2021-01-10,2021-01-04,13:17,Paderborn,Aue,1.97,3.65,3.61
+Germany,2. Bundesliga,2021-01-10,2021-01-04,13:17,Regensburg,Bochum,2.90,2.41,3.34
+Germany,2. Bundesliga,2021-01-11,2021-01-04,13:17,Braunschweig,Dusseldorf,3.38,1.93,3.5
+,,,,,,,,,
+Germany,3. Liga,2021-01-08,2021-01-04,13:17,Mannheim,Verl,2.89,2.42,3.21
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Bayern II,Munich 1860,2.86,2.42,3.25
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Hansa Rostock,Unterhaching,1.90,4.22,3.25
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Kaiserslautern,Viktoria Koln,2.08,3.36,3.44
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Magdeburg,Uerdingen,2.60,2.71,3.14
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Meppen,Saarbrucken,3.22,2.1,3.49
+Germany,3. Liga,2021-01-09,2021-01-04,13:17,Wehen,Hallescher,2.19,3.4,3.13
+Germany,3. Liga,2021-01-10,2021-01-04,13:17,Ingolstadt,Duisburg,1.57,5.84,3.77
+Germany,3. Liga,2021-01-10,2021-01-04,13:17,Zwickau,Lubeck,2.55,2.75,3.17
+Germany,3. Liga,2021-01-11,2021-01-04,13:17,Turkgucu Munchen,SG Dynamo Dresden,3.17,2.24,3.24
+,,,,,,,,,
+Germany,DFB Pokal,2021-01-12,2021-01-04,13:17,Bayer Leverkusen,Eintracht Frankfurt,1.66,4.68,4.01
+Germany,DFB Pokal,2021-01-13,2021-01-04,13:17,Holstein Kiel,Bayern Munich,22.07,1.08,10.24
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,Dortmund,Paderborn,1.10,23.33,8.38
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,RB Leipzig,Bochum,1.22,11.33,6.27
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,Regensburg,FC Koln,3.39,2.05,3.47
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,Stuttgart,B. Monchengladbach,2.75,2.37,3.48
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,Werder Bremen,Greuther Furth,1.77,4.31,3.63
+Germany,DFB Pokal,2021-02-02,2021-01-04,13:17,Wolfsburg,Schalke,1.50,5.92,4.23
+,,,,,,,,,
+Greece,Super League,2021-01-04,2021-01-04,13:17,Volos,Atromitos,2.52,3.03,2.98
+Greece,Super League,2021-01-04,2021-01-04,13:17,Lamia,Aris,5.96,1.58,3.8
+Greece,Super League,2021-01-06,2021-01-04,13:17,Smyrnis,Panathinaikos,3.39,2.11,3.37
+Greece,Super League,2021-01-06,2021-01-04,13:17,AEK Athens FC,Panetolikos,1.18,15.01,6.6
+Greece,Super League,2021-01-06,2021-01-04,13:17,AEL Larissa,Giannina,2.38,2.99,3.23
+Greece,Super League,2021-01-06,2021-01-04,13:17,Asteras Tripolis,Olympiacos Piraeus,7.09,1.44,4.27
+Greece,Super League,2021-01-07,2021-01-04,13:17,Aris,Volos,1.47,6.39,4.19
+Greece,Super League,2021-01-07,2021-01-04,13:17,OFI Crete,Lamia,1.59,5.36,3.88
+Greece,Super League,2021-01-07,2021-01-04,13:17,Atromitos,PAOK,4.98,1.68,3.59
+,,,,,,,,,
+India,ISL,2021-01-04,2021-01-04,13:17,Chennaiyin,Hyderabad,1.99,3.58,3.35
+,,,,,,,,,
+Iran,Persian Gulf Pro League,2021-01-04,2021-01-04,13:17,Shahr Khodrou,Saipa,2.47,3.38,2.59
+Iran,Persian Gulf Pro League,2021-01-04,2021-01-04,13:17,Sanat Naft,Naft M.I.S,2.01,4.84,2.62
+Iran,Persian Gulf Pro League,2021-01-04,2021-01-04,13:17,Esteghlal F.C.,Aluminium Arak,1.57,6.58,3.34
+Iran,Persian Gulf Pro League,2021-01-04,2021-01-04,13:17,Foolad,Mes Rafsanjan,1.68,6.42,2.98
+,,,,,,,,,
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Arman Gohar,Havadar SC,3.18,2.18,2.99
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Baderan Tehran,Shahin Bushehr,1.69,5.57,3.0
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Chooka Talesh,Astara,3.28,2.65,2.4
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Esteghlal Molasani,Fajr Sepasi,3.23,2.51,2.53
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Khooshe Talaee,Navad Urmia,2.05,4.23,2.63
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Malavan,Gol Reyhan Alborz,1.89,5.23,2.64
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Pars Janoobi Jam,Esteghlal Khuzestan,2.18,3.4,2.83
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Qashqai Shiraz,Mes Kerman,3.97,2.06,2.73
+Iran,Division 1,2021-01-04,2021-01-04,13:17,Rayka Babol,Kheybar Khorramabad,2.03,3.56,2.96
+,,,,,,,,,
+Israel,Ligat ha'Al,2021-01-04,2021-01-04,13:17,Maccabi Petah Tikva,Maccabi Tel Aviv,6.11,1.53,3.81
+,,,,,,,,,
+Israel,Leumit League,2021-01-04,2021-01-04,13:17,Hapoel Afula,H. Raanana,2.59,2.79,2.87
+Israel,Leumit League,2021-01-04,2021-01-04,13:17,H. Akko,Nes Tziona,3.13,2.37,2.88
+Israel,Leumit League,2021-01-04,2021-01-04,13:17,Hap. Ramat Gan,Hapoel Iksal Imad,2.40,2.98,2.94
+,,,,,,,,,
+Israel,Liga Alef South,2021-01-04,2021-01-04,13:17,Hapoel Azor,M. Herzliya,3.58,1.97,3.24
+,,,,,,,,,
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Cosenza,Empoli,3.77,2.05,3.26
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Venezia,Pisa,2.08,3.79,3.19
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Lecce,Monza,2.57,2.66,3.38
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Ascoli,Reggina,3.20,2.49,2.9
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Cremonese,Chievo,3.33,2.34,3.01
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Entella,Cittadella,3.79,2.06,3.21
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Frosinone,Spal,3.24,2.36,3.05
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Reggiana,Pescara,2.86,2.6,3.05
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Salernitana,Pordenone,3.04,2.47,3.03
+Italy,Serie B,2021-01-04,2021-01-04,13:17,Brescia,L.R. Vicenza,1.95,4.04,3.33
+,,,,,,,,,
+Italy,Super Cup,2021-01-20,2021-01-04,13:17,Juventus,Napoli,2.34,2.99,3.57
+,,,,,,,,,
+Japan,YBC Levain Cup,2021-01-04,2021-01-04,13:18,Kashiwa Reysol,FC Tokyo,2.40,2.87,3.29
+,,,,,,,,,
+Jordan,Premier League,2021-01-04,2021-01-04,13:18,Sahab,Al Ramtha,4.00,1.86,3.31
+Jordan,Premier League,2021-01-04,2021-01-04,13:18,Shabab Al Ordon,Al Hussein,2.67,2.64,2.93
+,,,,,,,,,
+Kuwait,Crown Prince Cup,2021-01-04,2021-01-04,13:18,Al Jahra,Al Tadamon,2.14,2.88,3.44
+Kuwait,Crown Prince Cup,2021-01-04,2021-01-04,13:18,Al Arabi,Al Qadisiya,3.68,1.82,3.46
+,,,,,,,,,
+Maldives,Dhivehi Premier League,2021-01-04,2021-01-04,13:18,Club Eagles,Valencia,4.67,1.54,4.05
+Maldives,Dhivehi Premier League,2021-01-04,2021-01-04,13:18,TC Sports Club,United Victory,1.65,3.84,4.12
+,,,,,,,,,
+Mexico,Liga MX,2021-01-09,2021-01-04,13:18,Puebla,Guadalajara Chivas,3.13,2.35,3.03
+Mexico,Liga MX,2021-01-09,2021-01-04,13:18,Club Tijuana,U.N.A.M.- Pumas,2.42,2.9,3.09
+Mexico,Liga MX,2021-01-09,2021-01-04,13:18,Mazatlan FC,Necaxa,2.34,2.94,3.27
+Mexico,Liga MX,2021-01-09,2021-01-04,13:18,Atlas,Monterrey,3.40,2.12,3.26
+Mexico,Liga MX,2021-01-10,2021-01-04,13:18,U.A.N.L.- Tigres,Club Leon,2.13,3.37,3.26
+Mexico,Liga MX,2021-01-10,2021-01-04,13:18,Club America,Atl. San Luis,1.50,6.04,4.16
+Mexico,Liga MX,2021-01-10,2021-01-04,13:18,Toluca,Queretaro,2.13,3.24,3.35
+Mexico,Liga MX,2021-01-11,2021-01-04,13:18,Santos Laguna,Cruz Azul,2.46,2.59,3.36
+Mexico,Liga MX,2021-01-12,2021-01-04,13:18,Pachuca,Juarez,1.82,3.9,3.64
+,,,,,,,,,
+Netherlands,Eerste Divisie,2021-01-04,2021-01-04,13:18,Jong AZ,Roda,2.84,2.26,3.62
+Netherlands,Eerste Divisie,2021-01-04,2021-01-04,13:18,Jong Utrecht,Den Bosch,1.74,4.0,4.05
+Netherlands,Eerste Divisie,2021-01-05,2021-01-04,13:18,Jong PSV,G.A. Eagles,2.31,2.83,3.43
+Netherlands,Eerste Divisie,2021-01-05,2021-01-04,13:18,Oss,Jong Ajax,2.82,2.27,3.6
+,,,,,,,,,
+Netherlands,Eredivisie,2021-01-09,2021-01-04,13:18,Waalwijk,Den Haag,1.80,4.07,3.88
+Netherlands,Eredivisie,2021-01-09,2021-01-04,13:18,FC Emmen,Twente,3.57,1.94,3.84
+Netherlands,Eredivisie,2021-01-09,2021-01-04,13:18,Heracles,Vitesse,3.45,2.0,3.72
+Netherlands,Eredivisie,2021-01-09,2021-01-04,13:18,Zwolle,AZ Alkmaar,4.26,1.73,4.09
+Netherlands,Eredivisie,2021-01-09,2021-01-04,13:18,Utrecht,Groningen,1.84,4.02,3.75
+Netherlands,Eredivisie,2021-01-10,2021-01-04,13:18,Sparta Rotterdam,Feyenoord,3.72,1.89,3.87
+Netherlands,Eredivisie,2021-01-10,2021-01-04,13:18,Heerenveen,Sittard,1.70,4.66,3.91
+Netherlands,Eredivisie,2021-01-10,2021-01-04,13:18,Venlo,Willem II,2.79,2.38,3.55
+Netherlands,Eredivisie,2021-01-10,2021-01-04,13:18,Ajax,PSV,1.63,4.63,4.42
+Netherlands,Eredivisie,2021-01-12,2021-01-04,13:18,Vitesse,Utrecht,2.09,3.2,3.42
+Netherlands,Eredivisie,2021-01-12,2021-01-04,13:18,Heracles,FC Emmen,1.81,3.92,3.63
+Netherlands,Eredivisie,2021-01-13,2021-01-04,13:18,PSV,AZ Alkmaar,1.62,4.47,4.14
+Netherlands,Eredivisie,2021-01-13,2021-01-04,13:18,Den Haag,Venlo,2.31,2.84,3.4
+Netherlands,Eredivisie,2021-01-13,2021-01-04,13:18,Sittard,Sparta Rotterdam,2.55,2.55,3.35
+Netherlands,Eredivisie,2021-01-13,2021-01-04,13:18,Feyenoord,Zwolle,1.25,9.31,5.69
+Netherlands,Eredivisie,2021-01-14,2021-01-04,13:18,Heerenveen,Waalwijk,1.46,5.76,4.47
+Netherlands,Eredivisie,2021-01-14,2021-01-04,13:18,Twente,Ajax,7.69,1.35,4.69
+Netherlands,Eredivisie,2021-01-14,2021-01-04,13:18,Willem II,Groningen,2.71,2.4,3.37
+,,,,,,,,,
+Nigeria,NPFL,2021-01-05,2021-01-04,13:18,Wikki Tourist,Plateau United,2.07,3.78,2.83
+,,,,,,,,,
+Poland,Ekstraklasa,2021-01-29,2021-01-04,13:18,Zaglebie,Wisla Plock,2.06,3.46,3.37
+Poland,Ekstraklasa,2021-01-29,2021-01-04,13:18,Rakow,Pogon Szczecin,2.25,3.08,3.33
+Poland,Ekstraklasa,2021-01-30,2021-01-04,13:18,Warta Poznan,Cracovia,3.19,2.18,3.35
+Poland,Ekstraklasa,2021-01-30,2021-01-04,13:18,Lechia Gdansk,Jagiellonia,2.20,3.11,3.38
+Poland,Ekstraklasa,2021-01-30,2021-01-04,13:18,Gornik Z.,Lech Poznan,3.19,2.16,3.42
+Poland,Ekstraklasa,2021-01-31,2021-01-04,13:18,Wisla,Piast Gliwice,2.35,2.94,3.29
+Poland,Ekstraklasa,2021-01-31,2021-01-04,13:18,Podbeskidzie,Legia,5.36,1.51,4.49
+Poland,Ekstraklasa,2021-02-01,2021-01-04,13:18,Stal Mielec,Slask Wroclaw,2.91,2.29,3.45
+,,,,,,,,,
+Portugal,Liga Portugal 2,2021-01-04,2021-01-04,13:18,CD Cova da Piedade,FC Porto B,2.87,2.44,3.26
+Portugal,Liga Portugal 2,2021-01-04,2021-01-04,13:18,Estoril,Penafiel,1.65,5.73,3.46
+Portugal,Liga Portugal 2,2021-01-05,2021-01-04,13:18,Academico Viseu,Casa Pia,2.26,3.54,2.87
+Portugal,Liga Portugal 2,2021-01-05,2021-01-04,13:18,Arouca,Academica,2.20,3.46,3.03
+Portugal,Liga Portugal 2,2021-01-06,2021-01-04,13:18,Leixoes,Oliveirense,1.87,4.1,3.32
+Portugal,Liga Portugal 2,2021-01-09,2021-01-04,13:18,Chaves,Estoril,2.31,3.15,3.04
+Portugal,Liga Portugal 2,2021-01-09,2021-01-04,13:18,Vilafranquense,Academico Viseu,2.10,3.23,3.36
+Portugal,Liga Portugal 2,2021-01-10,2021-01-04,13:18,Penafiel,Varzim,1.77,4.52,3.33
+Portugal,Liga Portugal 2,2021-01-10,2021-01-04,13:18,Covilha,Benfica B,2.22,3.23,3.1
+Portugal,Liga Portugal 2,2021-01-10,2021-01-04,13:18,Oliveirense,Feirense,5.54,1.7,3.18
+Portugal,Liga Portugal 2,2021-01-10,2021-01-04,13:18,Casa Pia,Arouca,3.66,1.96,3.3
+Portugal,Liga Portugal 2,2021-01-10,2021-01-04,13:18,Vizela,CD Cova da Piedade,1.57,6.12,3.5
+Portugal,Liga Portugal 2,2021-01-11,2021-01-04,13:18,FC Porto B,Leixoes,2.73,2.65,2.99
+Portugal,Liga Portugal 2,2021-01-11,2021-01-04,13:18,Academica,Mafra,2.33,2.9,3.21
+Portugal,Liga Portugal 2,2021-01-21,2021-01-04,13:18,Leixoes,Vilafranquense,2.07,3.39,3.3
+Portugal,Liga Portugal 2,2021-01-27,2021-01-04,13:18,Covilha,Mafra,2.70,2.8,2.9
+,,,,,,,,,
+Portugal,Liga Revelacao U23,2021-01-05,2021-01-04,13:18,Vitoria Guimaraes U23,Benfica U23,3.83,1.68,4.03
+Portugal,Liga Revelacao U23,2021-01-05,2021-01-04,13:18,Rio Ave U23,CD Cova da Piedade U23,1.43,5.42,4.54
+Portugal,Liga Revelacao U23,2021-01-05,2021-01-04,13:18,Sporting U23,Portimonense U23,1.94,3.21,3.63
+,,,,,,,,,
+Portugal,Primeira Liga,2021-01-04,2021-01-04,13:18,Santa Clara,Benfica,7.86,1.4,4.72
+Portugal,Primeira Liga,2021-01-04,2021-01-04,13:18,Gil Vicente,Belenenses,2.12,3.99,3.04
+Portugal,Primeira Liga,2021-01-04,2021-01-04,13:18,Portimonense,SC Farense,2.34,3.19,3.21
+Portugal,Primeira Liga,2021-01-07,2021-01-04,13:18,Nacional,Sporting,6.55,1.48,4.42
+Portugal,Primeira Liga,2021-01-07,2021-01-04,13:18,Braga,Maritimo,1.35,8.28,5.12
+Portugal,Primeira Liga,2021-01-08,2021-01-04,13:18,Benfica,Tondela,1.18,16.04,6.83
+Portugal,Primeira Liga,2021-01-08,2021-01-04,13:18,Rio Ave,Portimonense,2.17,3.9,2.95
+Portugal,Primeira Liga,2021-01-08,2021-01-04,13:18,Famalicao,FC Porto,7.26,1.39,4.94
+Portugal,Primeira Liga,2021-01-09,2021-01-04,13:18,Moreirense,Vitoria Guimaraes,3.46,2.19,3.21
+Portugal,Primeira Liga,2021-01-09,2021-01-04,13:18,Boavista,Santa Clara,2.52,3.16,2.93
+Portugal,Primeira Liga,2021-01-10,2021-01-04,13:18,SC Farense,Gil Vicente,2.47,3.15,2.99
+Portugal,Primeira Liga,2021-01-10,2021-01-04,13:18,Belenenses,Ferreira,2.96,2.53,3.07
+Portugal,Primeira Liga,2021-01-21,2021-01-04,13:18,Vitoria Guimaraes,Nacional,1.75,4.89,3.52
+,,,,,,,,,
+Portugal,Campeonato de Portugal,2021-01-05,2021-01-04,13:18,Santarem,Sintrense,2.21,2.95,3.16
+Portugal,Campeonato de Portugal,2021-02-03,2021-01-04,13:18,Beira Mar,Anadia,2.25,2.85,3.05
+,,,,,,,,,
+Qatar,Division 2,2021-01-05,2021-01-04,13:18,Al Bidda,Shamal,3.93,1.74,3.48
+Qatar,Division 2,2021-01-05,2021-01-04,13:18,Lusail,Al-Waab,1.67,4.16,3.58
+,,,,,,,,,
+Romania,Liga 1,2021-01-10,2021-01-04,13:18,Viitorul Constanta,FC Hermannstadt,1.63,5.18,3.96
+Romania,Liga 1,2021-01-12,2021-01-04,13:18,Gaz Metan Medias,FC Voluntari,2.31,3.11,3.13
+Romania,Liga 1,2021-01-12,2021-01-04,13:18,U Craiova,Sepsi Sf. Gheorghe,1.93,3.93,3.3
+Romania,Liga 1,2021-01-13,2021-01-04,13:18,Chindia Targoviste,Poli Iasi,2.34,3.12,3.06
+Romania,Liga 1,2021-01-13,2021-01-04,13:18,FC Hermannstadt,Din. Bucuresti,2.97,2.38,3.09
+Romania,Liga 1,2021-01-14,2021-01-04,13:18,FC Botosani,FC Arges,1.79,4.4,3.46
+Romania,Liga 1,2021-01-14,2021-01-04,13:18,CFR Cluj,Academica Clinceni,1.54,6.26,3.71
+Romania,Liga 1,2021-01-15,2021-01-04,13:18,UTA Arad,Viitorul Constanta,3.64,2.02,3.29
+Romania,Liga 1,2021-01-15,2021-01-04,13:18,FCSB,Astra,1.67,5.0,3.62
+Romania,Liga 1,2021-01-16,2021-01-04,13:18,Din. Bucuresti,Chindia Targoviste,1.99,3.75,3.31
+Romania,Liga 1,2021-01-17,2021-01-04,13:18,Academica Clinceni,FC Hermannstadt,2.12,3.41,3.29
+Romania,Liga 1,2021-01-17,2021-01-04,13:18,FC Arges,Gaz Metan Medias,2.70,2.58,3.18
+Romania,Liga 1,2021-01-17,2021-01-04,13:18,Sepsi Sf. Gheorghe,CFR Cluj,3.38,2.22,3.06
+Romania,Liga 1,2021-01-18,2021-01-04,13:18,Poli Iasi,FC Botosani,3.20,2.19,3.28
+Romania,Liga 1,2021-01-18,2021-01-04,13:18,Astra,U Craiova,3.16,2.25,3.21
+Romania,Liga 1,2021-01-19,2021-01-04,13:18,FC Voluntari,UTA Arad,2.18,3.46,3.2
+Romania,Liga 1,2021-01-19,2021-01-04,13:18,Viitorul Constanta,FCSB,3.77,1.98,3.43
+,,,,,,,,,
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Aerostar,Unirea Slobozia,2.32,2.79,3.1
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Calarasi,F. Constanta,2.22,2.9,3.26
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Comuna Recea,Concordia,2.86,2.22,3.3
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,CSM Slatina,Mioveni,2.99,2.32,3.0
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Csikszereda M. Ciuc,CSM Resita,2.02,3.38,3.2
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Petrolul,Metaloglobus Bucharest,1.85,3.46,3.5
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,FC Rapid Bucuresti,Ripensia Timisoara,1.45,4.94,4.2
+Romania,Liga 2,2021-02-20,2021-01-04,13:18,Viitorul Tg. Jiu,U. Cluj,2.60,2.4,3.2
+,,,,,,,,,
+Russia,Premier League,2021-02-26,2021-01-04,13:19,Tambov,R. Volgograd,2.77,2.75,3.16
+Russia,Premier League,2021-02-27,2021-01-04,13:19,Khimki,Ufa,2.12,3.75,3.31
+Russia,Premier League,2021-02-27,2021-01-04,13:19,Zenit,FK Rostov,1.36,9.38,4.96
+Russia,Premier League,2021-02-27,2021-01-04,13:19,Lokomotiv Moscow,CSKA Moscow,3.10,2.34,3.41
+Russia,Premier League,2021-02-27,2021-01-04,13:19,Sochi,Arsenal Tula,1.77,5.04,3.59
+Russia,Premier League,2021-02-28,2021-01-04,13:19,Spartak Moscow,Rubin Kazan,1.72,5.21,3.75
+Russia,Premier League,2021-02-28,2021-01-04,13:19,Akhmat Grozny,Dynamo Moscow,2.86,2.63,3.22
+Russia,Premier League,2021-02-28,2021-01-04,13:19,Krasnodar,Ural,1.42,7.84,4.71
+Russia,Premier League,2021-03-06,2021-01-04,13:19,R. Volgograd,Khimki,3.62,2.28,3.3
+Russia,Premier League,2021-03-06,2021-01-04,13:19,FK Rostov,Sochi,2.28,3.62,3.3
+Russia,Premier League,2021-03-07,2021-01-04,13:19,Ural,Ufa,2.54,3.2,3.2
+Russia,Premier League,2021-03-07,2021-01-04,13:19,Dynamo Moscow,Tambov,1.25,14.5,6.9
+Russia,Premier League,2021-03-07,2021-01-04,13:19,Spartak Moscow,Krasnodar,2.76,2.7,3.52
+Russia,Premier League,2021-03-08,2021-01-04,13:19,Arsenal Tula,Lokomotiv Moscow,4.14,2.08,3.42
+Russia,Premier League,2021-03-08,2021-01-04,13:19,Rubin Kazan,Zenit,4.96,1.86,3.62
+Russia,Premier League,2021-03-08,2021-01-04,13:19,CSKA Moscow,Akhmat Grozny,1.76,5.35,3.82
+,,,,,,,,,
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,CSKA Moscow,SKA Khabarovsk,1.29,11.0,4.8
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Dynamo Moscow,Spartak Moscow,2.45,2.73,3.3
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,FK Rostov,Akhmat Grozny,2.17,3.28,3.3
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Khimki,FK Krylya Sovetov Samara,2.14,3.18,3.4
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Krasnodar,Sochi,1.82,4.24,3.5
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Lokomotiv Moscow,Tambov,1.23,13.0,5.3
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Ufa,Ural,2.40,2.99,3.1
+Russia,Russian Cup,2021-02-20,2021-01-04,13:19,Zenit,Arsenal Tula,1.23,10.5,5.6
+,,,,,,,,,
+Saudi Arabia,Saudi Professional League,2021-01-07,2021-01-04,13:19,Abha,Al-Faisaly,2.33,2.78,3.29
+Saudi Arabia,Saudi Professional League,2021-01-07,2021-01-04,13:19,Al Wehda,Al-Fateh,2.04,3.16,3.51
+Saudi Arabia,Saudi Professional League,2021-01-08,2021-01-04,13:19,Al Batin,Al-Hilal,10.31,1.25,5.09
+Saudi Arabia,Saudi Professional League,2021-01-08,2021-01-04,13:19,Al Qadisiya,Al Ahli SC,4.79,1.59,3.86
+Saudi Arabia,Saudi Professional League,2021-01-08,2021-01-04,13:19,Al-Nassr,Al Ain,1.30,9.25,4.85
+Saudi Arabia,Saudi Professional League,2021-01-09,2021-01-04,13:19,Al-Taawon,Al-Raed,2.03,3.33,3.36
+Saudi Arabia,Saudi Professional League,2021-01-09,2021-01-04,13:19,Al-Shabab,Al-Ettifaq,1.86,3.56,3.63
+Saudi Arabia,Saudi Professional League,2021-01-09,2021-01-04,13:19,Al-Ittihad FC,Damac,1.60,4.88,3.85
+,,,,,,,,,
+Saudi Arabia,Division 1,2021-01-05,2021-01-04,13:19,Al-Sahel,Ohod,2.32,3.03,2.81
+,,,,,,,,,
+Scotland,Premiership,2021-01-09,2021-01-04,13:19,Dundee Utd,St Johnstone,2.96,2.37,3.33
+Scotland,Premiership,2021-01-09,2021-01-04,13:19,Kilmarnock,Hamilton,1.58,5.38,4.12
+Scotland,Premiership,2021-01-09,2021-01-04,13:19,Livingston,Ross County,1.55,5.84,4.07
+Scotland,Premiership,2021-01-09,2021-01-04,13:19,St. Mirren,Motherwell,2.34,3.03,3.28
+Scotland,Premiership,2021-01-10,2021-01-04,13:19,Aberdeen,Rangers,8.66,1.37,4.63
+Scotland,Premiership,2021-01-11,2021-01-04,13:19,Celtic,Hibernian,1.39,7.44,4.84
+,,,,,,,,,
+Scotland,Lowland League,2021-01-04,2021-01-04,13:19,Vale Of Leithen,Gala Fairydean,16.50,1.02,14.0
+Scotland,Lowland League,2021-01-05,2021-01-04,13:19,Bo'ness United,Bonnyrigg Rose,3.50,1.73,3.95
+Scotland,Lowland League,2021-01-05,2021-01-04,13:19,Kelty Hearts,East Stirlingshire,1.40,5.87,4.31
+,,,,,,,,,
+Slovakia,Fortuna liga,2021-02-06,2021-01-04,13:19,Pohronie,Nitra,1.55,4.8,4.2
+,,,,,,,,,
+South Africa,Premier League,2021-01-05,2021-01-04,13:19,Golden Arrows,Black Leopards,1.78,4.98,3.05
+South Africa,Premier League,2021-01-05,2021-01-04,13:19,Stellenbosch,Tshakhuma,2.49,2.95,2.83
+South Africa,Premier League,2021-01-05,2021-01-04,13:19,Swallows,Cape Town City,2.50,3.01,2.72
+South Africa,Premier League,2021-01-05,2021-01-04,13:19,TS Galaxy,Baroka,2.45,2.94,2.88
+South Africa,Premier League,2021-01-06,2021-01-04,13:19,Supersport Utd,Chippa Utd.,1.50,5.47,3.75
+,,,,,,,,,
+South America,Copa América,2021-06-11,2021-01-04,13:19,Argentina,Chile,1.59,5.35,3.74
+South America,Copa América,2021-06-11,2021-01-04,13:19,Australia,Uruguay,7.40,1.34,5.0
+South America,Copa América,2021-06-14,2021-01-04,13:19,Peru,Qatar,1.82,4.42,3.4
+,,,,,,,,,
+South America,Copa Libertadores,2021-01-06,2021-01-04,13:19,River Plate (Arg) ,Palmeiras (Bra) ,1.88,4.41,3.32
+South America,Copa Libertadores,2021-01-06,2021-01-04,13:19,Boca Juniors (Arg) ,Santos (Bra) ,1.65,5.52,3.72
+,,,,,,,,,
+South America,Copa Sudamericana,2021-01-07,2021-01-04,13:19,Velez Sarsfield (Arg) ,Lanus (Arg) ,2.01,3.7,3.22
+South America,Copa Sudamericana,2021-01-08,2021-01-04,13:19,Coquimbo (Chi) ,Defensa y Justicia (Arg) ,3.52,2.04,3.27
+,,,,,,,,,
+Spain,LaLiga2,2021-01-04,2021-01-04,13:19,Girona,Sabadell,1.98,4.32,3.08
+Spain,LaLiga2,2021-01-04,2021-01-04,13:19,Lugo,Gijon,2.63,3.27,2.69
+Spain,LaLiga2,2021-01-08,2021-01-04,13:19,Zaragoza,Logrones,2.02,4.15,3.05
+Spain,LaLiga2,2021-01-09,2021-01-04,13:19,Mirandes,Rayo Vallecano,3.00,2.5,3.0
+Spain,LaLiga2,2021-01-09,2021-01-04,13:19,Malaga,R. Oviedo,2.69,2.89,2.88
+Spain,LaLiga2,2021-01-09,2021-01-04,13:19,Alcorcon,Albacete,2.05,4.23,2.93
+Spain,LaLiga2,2021-01-10,2021-01-04,13:19,Leganes,Almeria,2.20,3.53,2.98
+Spain,LaLiga2,2021-01-10,2021-01-04,13:19,Mallorca,Las Palmas,1.61,6.09,3.5
+Spain,LaLiga2,2021-01-10,2021-01-04,13:19,Tenerife,Cartagena,2.18,3.76,2.9
+Spain,LaLiga2,2021-01-10,2021-01-04,13:19,Gijon,Fuenlabrada,2.27,3.52,2.88
+Spain,LaLiga2,2021-01-10,2021-01-04,13:19,Espanyol,Castellon,1.45,7.59,4.02
+Spain,LaLiga2,2021-01-11,2021-01-04,13:19,Ponferradina,Girona,2.74,2.85,2.8
+,,,,,,,,,
+Spain,Tercera Division - Group 4,2021-01-05,2021-01-04,13:19,Gernika,SD Deusto,1.90,3.39,3.35
+,,,,,,,,,
+Spain,Tercera Division - Group 6,2021-01-05,2021-01-04,13:19,Novelda CF,Beniganim,2.35,2.65,3.11
+,,,,,,,,,
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Cordoba,Getafe,7.47,1.36,4.42
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Ibiza,Celta Vigo,8.76,1.29,5.03
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Linares,Sevilla,11.44,1.19,6.09
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Zamora,Villarreal,9.37,1.26,5.21
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Alcorcon,Zaragoza,2.56,2.65,3.04
+Spain,Copa del Rey 2020/2021,2021-01-05,2021-01-04,13:19,Marbella,Valladolid,7.63,1.36,4.44
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,La Nucia,Elche,9.38,1.26,4.86
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Numancia,Almeria,3.13,2.1,3.22
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Portugalete,Levante,7.11,1.33,4.62
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Socuellamos,Leganes,6.57,1.4,4.13
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Leonesa,Granada CF,6.59,1.44,3.76
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Dep. La Coruna,Alaves,5.56,1.51,3.78
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Olot,Osasuna,6.56,1.45,3.77
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Fuenlabrada,Mallorca,3.92,1.91,3.02
+Spain,Copa del Rey 2020/2021,2021-01-06,2021-01-04,13:19,Malaga,R. Oviedo,2.21,3.1,3.01
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Castellon,Tenerife,2.76,2.5,2.9
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Pena Deportiva,Sabadell,3.98,1.8,3.27
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Pontevedra,Cadiz CF,7.51,1.36,4.09
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Yeclano,Valencia,6.84,1.34,4.61
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Alcoyano,Huesca,6.04,1.44,4.1
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Las Rozas,Eibar,7.41,1.28,5.29
+Spain,Copa del Rey 2020/2021,2021-01-07,2021-01-04,13:19,Girona,Lugo,2.00,3.59,3.04
+,,,,,,,,,
+Spain,Super Cup,2021-01-13,2021-01-04,13:19,Real Sociedad,Barcelona,4.08,1.81,4.06
+Spain,Super Cup,2021-01-14,2021-01-04,13:19,Real Madrid,Ath Bilbao,1.86,4.22,3.76
+,,,,,,,,,
+Spain,Primera Division Women,2021-01-05,2021-01-04,13:20,Granadilla Tenerife W,Dep. La Coruna W,1.29,7.76,5.01
+,,,,,,,,,
+Switzerland,Super League,2021-01-17,2021-01-04,13:20,Sion,Lugano,2.70,2.48,3.39
+,,,,,,,,,
+Thailand,Thai League 1,2021-01-05,2021-01-04,13:20,Chiangrai Utd,Port MTI FC,2.56,2.41,3.34
+,,,,,,,,,
+Turkey,1. Lig,2021-01-04,2021-01-04,13:20,Eskisehirspor,Boluspor,3.48,1.99,3.41
+Turkey,1. Lig,2021-01-04,2021-01-04,13:20,Adana Demirspor,Menemenspor,1.46,5.97,4.32
+,,,,,,,,,
+Turkey,2. Lig White Group,2021-01-06,2021-01-04,13:20,Gumushanespor,Kocaelispor,1.80,4.0,3.3
+,,,,,,,,,
+Turkey,3. Lig Group 4,2021-01-04,2021-01-04,13:20,Siirt Ozel,Turk Metal,2.26,2.9,3.16
+,,,,,,,,,
+Turkey,Super Lig,2021-01-04,2021-01-04,13:20,Kasimpasa,Fenerbahce,4.04,1.76,4.12
+Turkey,Super Lig,2021-01-05,2021-01-04,13:20,Gaziantep,Ankaragucu,1.94,3.98,3.5
+Turkey,Super Lig,2021-01-05,2021-01-04,13:20,Yeni Malatyaspor,Sivasspor,2.59,2.82,3.2
+Turkey,Super Lig,2021-01-05,2021-01-04,13:20,Konyaspor,Galatasaray,3.59,2.06,3.43
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Denizlispor,Kayserispor,2.08,3.45,3.51
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Basaksehir,Erzurum BB,1.43,6.72,4.72
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Genclerbirligi,Hatayspor,3.12,2.21,3.51
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Trabzonspor,Goztepe,1.90,4.0,3.56
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Antalyaspor,Karagumruk,2.49,2.94,3.14
+Turkey,Super Lig,2021-01-06,2021-01-04,13:20,Besiktas,Rizespor,1.47,6.0,4.65
+Turkey,Super Lig,2021-01-07,2021-01-04,13:20,Fenerbahce,Alanyaspor,2.15,3.42,3.33
+,,,,,,,,,
+Ukraine,Ukrainian Cup,2021-03-03,2021-01-04,13:20,Ahrobiznes Volochysk,Shakhtar Donetsk,12.00,1.21,6.4
+Ukraine,Ukrainian Cup,2021-03-03,2021-01-04,13:20,Dyn. Kyiv,Kolos Kovalivka,1.31,9.0,5.2
+Ukraine,Ukrainian Cup,2021-03-03,2021-01-04,13:20,Dnipro-1,Oleksandriya,2.90,2.37,3.34
+Ukraine,Ukrainian Cup,2021-03-03,2021-01-04,13:20,Veres-Rivne,FK Zorya Luhansk,4.44,1.77,3.64
+,,,,,,,,,
+World,Arab Club Champions Cup,2021-01-04,2021-01-04,13:20,Al-Ittihad FC,Al-Shabab,2.23,3.04,3.2
+,,,,,,,,,
+World,Club Friendly,2021-01-05,2021-01-04,13:20,Mlada Boleslav (Cze) ,FK Pardubice (Cze) ,1.78,4.0,3.75
+,,,,,,,,,
+World,Friendly International,2021-01-04,2021-01-04,13:20,Zambia,Uganda,2.77,2.53,3.13
+World,Friendly International,2021-01-04,2021-01-04,13:20,Cameroon,Niger,1.58,6.0,3.56
+,,,,,,,,,

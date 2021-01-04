@@ -1,0 +1,414 @@
+Country of League,League,Date of Collection,Team,Standing
+Spain,Spain LaLiga,2020-04-24,Barcelona,1.0
+Spain,Spain LaLiga,2020-04-24,Real Madrid,2.0
+Spain,Spain LaLiga,2020-04-24,Sevilla,3.0
+Spain,Spain LaLiga,2020-04-24,Real Sociedad,4.0
+Spain,Spain LaLiga,2020-04-24,Getafe,5.0
+Spain,Spain LaLiga,2020-04-24,Atl. Madrid,6.0
+Spain,Spain LaLiga,2020-04-24,Valencia,7.0
+Spain,Spain LaLiga,2020-04-24,Villarreal,8.0
+Spain,Spain LaLiga,2020-04-24,Granada CF,9.0
+Spain,Spain LaLiga,2020-04-24,Ath Bilbao,10.0
+Spain,Spain LaLiga,2020-04-24,Osasuna,11.0
+Spain,Spain LaLiga,2020-04-24,Betis,12.0
+Spain,Spain LaLiga,2020-04-24,Levante,13.0
+Spain,Spain LaLiga,2020-04-24,Alaves,14.0
+Spain,Spain LaLiga,2020-04-24,Valladolid,15.0
+Spain,Spain LaLiga,2020-04-24,Eibar,16.0
+Spain,Spain LaLiga,2020-04-24,Celta Vigo,17.0
+Spain,Spain LaLiga,2020-04-24,Mallorca,18.0
+Spain,Spain LaLiga,2020-04-24,Leganes,19.0
+Spain,Spain LaLiga,2020-04-24,Espanyol,20.0
+,,,,
+Belarus,Belarus Vysshaya Liga,2020-04-24,Slutsk,1.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Vitebsk,2.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Zhodino,3.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Gorodeja,4.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Isloch Minsk,5.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Energetik-BGU,6.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Slavia Mozyr,7.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,BATE,8.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Rukh Brest,9.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Brest,10.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,FC Minsk,11.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Din. Minsk,12.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Shakhtyor Soligorsk,13.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Neman,14.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Smolevichi,15.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Belshina,16.0
+,,,,
+Belarus,Belarus Pershaya Liga,2020-04-24,Lokomotiv Gomel,1.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Krumkachy,2.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Oshmyany,3.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Smorgon,4.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Sputnik,5.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Volna Pinsk,6.0
+Belarus,Belarus Pershaya Liga,2020-04-24,FC Slonim,7.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Orsha,8.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Mikashevichi,9.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Arsenal Dzyarzhynsk,10.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Lida,11.0
+Belarus,Belarus Pershaya Liga,2020-04-24,FC Gomel,12.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Chimik Svetlogorsk,13.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Naftan,14.0
+,,,,
+Belarus,Belarus Division 2 - Group A,2020-04-24,Molodechno,1.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Stanles Pinsk,2.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Meliorator Zhitkovichi,3.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Ostrovets,4.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Kronon Stolbtsy,5.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Pershiy Region,6.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Baranovici,7.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Ivatsevichi,8.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Chayka Zelva,9.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,BGU Minsk,10.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Brest Malorita,11.0
+,,,,
+Belarus,Belarus Division 2 - Group B,2020-04-24,Viktoria Mar. Gorka,1.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,BumProm Gomel,2.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Petrikov,3.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Gorki,4.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Osipovichi,5.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Dnepr Mogilev,6.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Energetik-BGATU,7.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Zhlobin,8.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,SMIavtotrans,9.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Polotsk,10.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Dnepr Rogachev,11.0
+,,,,
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Din. Minsk 2,1.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Neman 2,2.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Minsk 2,3.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Rukh Brest 2,4.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Sachter Soligorsk 2,5.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Smolevichi 2,6.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Isloch Minsk 2,7.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Zhodino 2,8.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Slutsk 2,9.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Vitebsk 2,10.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Belshina 2,11.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Energetik-BGU 2,12.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,BATE 2,13.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Brest 2,14.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Slavia Mozyr 2,15.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,FK Gorodeja 2,16.0
+,,,,
+Europe,Europe UEFA Nations League,2020-04-24,Poland,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Netherlands,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Italy,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Bosnia & Herzegovina,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Belgium,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Iceland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Denmark,3.0
+Europe,Europe UEFA Nations League,2020-04-24,England,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Sweden,1.0
+Europe,Europe UEFA Nations League,2020-04-24,France,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Portugal,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Croatia,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Germany,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Switzerland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Spain,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Ukraine,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Austria,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Romania,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Northern Ireland,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Norway,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Czech Republic,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Scotland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Slovakia,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Israel,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Russia,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Turkey,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Hungary,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Serbia,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Bulgaria,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Ireland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Wales,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Finland,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Montenegro,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Luxembourg,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Cyprus,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Azerbaijan,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Estonia,1.0
+Europe,Europe UEFA Nations League,2020-04-24,North Macedonia,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Armenia,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Georgia,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Greece,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Slovenia,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Moldova,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Kosovo,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Albania,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Belarus,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Lithuania,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Kazakhstan,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Latvia,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Andorra,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Malta,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Faroe Islands,4.0
+Europe,Europe UEFA Nations League,2020-04-24,San Marino,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Liechtenstein,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Gibraltar,3.0
+,,,,
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ferretti,1.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Diriangen,2.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Esteli,3.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Managua FC,4.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Juventus Managua,5.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Sabanas,6.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Chinandega,7.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ocotal,8.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Real Madriz,9.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Jalapa,10.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Managua FC,1.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Esteli,2.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Diriangen,3.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ferretti,4.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Jalapa,5.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Juventus Managua,6.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Chinandega,7.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Real Madriz,8.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ocotal,9.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Sabanas,10.0
+,,,,
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Managua FC U20,1.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Esteli U20,2.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Juventus Managua U20,3.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Ferretti U20,4.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Jalapa U20,5.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Real Madriz U20,6.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Ocotal U20,7.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Diriangen U20,8.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Chinandega U20,9.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Sabanas U20,10.0
+,,,,
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taichung Blue W,1.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taipei Bear W,2.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Hualien W,3.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,New Taipei W,4.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taoyuan W,5.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Kaohsiung W,6.0
+,,,,
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Istiqlol Dushanbe,1.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Khatlon,2.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Faizkand,3.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Kuktosh,4.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Regar-TadAZ,5.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Khujand,6.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Lokomotiv Pamir,7.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,CSKA Pomir Dushanbe,8.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Dushanbe 83,9.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Istaravshan,10.0
+,,,,
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Ahal,1.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Kopetdag Asgabat,2.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,FC Asgabat,3.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Altyn Asyr,4.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Energetik,5.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Nebitci,6.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Merw,7.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Sagadam,8.0
+,,,,
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Altyn Asyr U21,1.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Nebitci U21,2.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Ahal U21,3.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Kopetdag Asgabat U21,4.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Merw U21,5.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Sagadam U21,6.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Energetik U21,7.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,FC Asgabat U21,8.0
+,,,,
+Spain,Spain LaLiga,2020-04-24,Barcelona,1.0
+Spain,Spain LaLiga,2020-04-24,Real Madrid,2.0
+Spain,Spain LaLiga,2020-04-24,Sevilla,3.0
+Spain,Spain LaLiga,2020-04-24,Real Sociedad,4.0
+Spain,Spain LaLiga,2020-04-24,Getafe,5.0
+Spain,Spain LaLiga,2020-04-24,Atl. Madrid,6.0
+Spain,Spain LaLiga,2020-04-24,Valencia,7.0
+Spain,Spain LaLiga,2020-04-24,Villarreal,8.0
+Spain,Spain LaLiga,2020-04-24,Granada CF,9.0
+Spain,Spain LaLiga,2020-04-24,Ath Bilbao,10.0
+Spain,Spain LaLiga,2020-04-24,Osasuna,11.0
+Spain,Spain LaLiga,2020-04-24,Betis,12.0
+Spain,Spain LaLiga,2020-04-24,Levante,13.0
+Spain,Spain LaLiga,2020-04-24,Alaves,14.0
+Spain,Spain LaLiga,2020-04-24,Valladolid,15.0
+Spain,Spain LaLiga,2020-04-24,Eibar,16.0
+Spain,Spain LaLiga,2020-04-24,Celta Vigo,17.0
+Spain,Spain LaLiga,2020-04-24,Mallorca,18.0
+Spain,Spain LaLiga,2020-04-24,Leganes,19.0
+Spain,Spain LaLiga,2020-04-24,Espanyol,20.0
+,,,,
+Belarus,Belarus Vysshaya Liga,2020-04-24,Slutsk,1.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Vitebsk,2.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Zhodino,3.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Gorodeja,4.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Isloch Minsk,5.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Energetik-BGU,6.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Slavia Mozyr,7.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,BATE,8.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Rukh Brest,9.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Brest,10.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,FC Minsk,11.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Din. Minsk,12.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Shakhtyor Soligorsk,13.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Neman,14.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Smolevichi,15.0
+Belarus,Belarus Vysshaya Liga,2020-04-24,Belshina,16.0
+,,,,
+Belarus,Belarus Pershaya Liga,2020-04-24,Lokomotiv Gomel,1.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Krumkachy,2.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Oshmyany,3.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Smorgon,4.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Sputnik,5.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Volna Pinsk,6.0
+Belarus,Belarus Pershaya Liga,2020-04-24,FC Slonim,7.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Orsha,8.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Mikashevichi,9.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Arsenal Dzyarzhynsk,10.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Lida,11.0
+Belarus,Belarus Pershaya Liga,2020-04-24,FC Gomel,12.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Chimik Svetlogorsk,13.0
+Belarus,Belarus Pershaya Liga,2020-04-24,Naftan,14.0
+,,,,
+Belarus,Belarus Division 2 - Group A,2020-04-24,Molodechno,1.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Stanles Pinsk,2.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Meliorator Zhitkovichi,3.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Ostrovets,4.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Kronon Stolbtsy,5.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Pershiy Region,6.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Baranovici,7.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Ivatsevichi,8.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Chayka Zelva,9.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,BGU Minsk,10.0
+Belarus,Belarus Division 2 - Group A,2020-04-24,Brest Malorita,11.0
+,,,,
+Belarus,Belarus Division 2 - Group B,2020-04-24,Viktoria Mar. Gorka,1.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,BumProm Gomel,2.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Petrikov,3.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Gorki,4.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Osipovichi,5.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Dnepr Mogilev,6.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Energetik-BGATU,7.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Zhlobin,8.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,SMIavtotrans,9.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Polotsk,10.0
+Belarus,Belarus Division 2 - Group B,2020-04-24,Dnepr Rogachev,11.0
+,,,,
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Din. Minsk 2,1.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Neman 2,2.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Minsk 2,3.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Rukh Brest 2,4.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Sachter Soligorsk 2,5.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Smolevichi 2,6.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Isloch Minsk 2,7.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Zhodino 2,8.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Slutsk 2,9.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Vitebsk 2,10.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Belshina 2,11.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Energetik-BGU 2,12.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,BATE 2,13.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Brest 2,14.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,Slavia Mozyr 2,15.0
+Belarus,Belarus Vysshaya Liga Reserve,2020-04-24,FK Gorodeja 2,16.0
+,,,,
+Europe,Europe UEFA Nations League,2020-04-24,Poland,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Netherlands,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Italy,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Bosnia & Herzegovina,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Belgium,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Iceland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Denmark,3.0
+Europe,Europe UEFA Nations League,2020-04-24,England,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Sweden,1.0
+Europe,Europe UEFA Nations League,2020-04-24,France,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Portugal,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Croatia,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Germany,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Switzerland,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Spain,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Ukraine,4.0
+Europe,Europe UEFA Nations League,2020-04-24,Latvia,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Andorra,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Malta,3.0
+Europe,Europe UEFA Nations League,2020-04-24,Faroe Islands,4.0
+Europe,Europe UEFA Nations League,2020-04-24,San Marino,1.0
+Europe,Europe UEFA Nations League,2020-04-24,Liechtenstein,2.0
+Europe,Europe UEFA Nations League,2020-04-24,Gibraltar,3.0
+,,,,
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ferretti,1.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Diriangen,2.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Esteli,3.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Managua FC,4.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Juventus Managua,5.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Sabanas,6.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Chinandega,7.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ocotal,8.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Real Madriz,9.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Jalapa,10.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Managua FC,1.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Esteli,2.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Diriangen,3.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ferretti,4.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Jalapa,5.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Juventus Managua,6.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Chinandega,7.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Real Madriz,8.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Ocotal,9.0
+Nicaragua,Nicaragua Liga Primera,2020-04-24,Sabanas,10.0
+,,,,
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Managua FC U20,1.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Esteli U20,2.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Juventus Managua U20,3.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Ferretti U20,4.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Jalapa U20,5.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Real Madriz U20,6.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Ocotal U20,7.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Diriangen U20,8.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Chinandega U20,9.0
+Nicaragua,Nicaragua Liga Primera U20,2020-04-24,Sabanas U20,10.0
+,,,,
+Taiwan,Taiwan Premier League,2020-04-24,Taipower,1.0
+Taiwan,Taiwan Premier League,2020-04-24,Hang Yuen,2.0
+Taiwan,Taiwan Premier League,2020-04-24,Taichung,3.0
+Taiwan,Taiwan Premier League,2020-04-24,Taipei Tatung,4.0
+Taiwan,Taiwan Premier League,2020-04-24,Taiwan Steel,5.0
+Taiwan,Taiwan Premier League,2020-04-24,NTUS,6.0
+Taiwan,Taiwan Premier League,2020-04-24,Ming Chuan University,7.0
+Taiwan,Taiwan Premier League,2020-04-24,Red Lions,8.0
+,,,,
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taichung Blue W,1.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taipei Bear W,2.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Hualien W,3.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,New Taipei W,4.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Taoyuan W,5.0
+Taiwan,Taiwan Mulan Football League Women,2020-04-24,Kaohsiung W,6.0
+,,,,
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Istiqlol Dushanbe,1.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Khatlon,2.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Faizkand,3.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Kuktosh,4.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Regar-TadAZ,5.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Khujand,6.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Lokomotiv Pamir,7.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,CSKA Pomir Dushanbe,8.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Dushanbe 83,9.0
+Tajikistan,Tajikistan Vysshaya Liga,2020-04-24,Istaravshan,10.0
+,,,,
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Ahal,1.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Kopetdag Asgabat,2.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,FC Asgabat,3.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Altyn Asyr,4.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Energetik,5.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Nebitci,6.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Merw,7.0
+Turkmenistan,Turkmenistan Yokary Liga 2020,2020-04-24,Sagadam,8.0
+,,,,
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Altyn Asyr U21,1.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Nebitci U21,2.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Ahal U21,3.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Kopetdag Asgabat U21,4.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Merw U21,5.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Sagadam U21,6.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,Energetik U21,7.0
+Turkmenistan,Turkmenistan Youth League,2020-04-24,FC Asgabat U21,8.0
+,,,,
