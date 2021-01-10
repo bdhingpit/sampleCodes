@@ -1,0 +1,5 @@
+SHORT DESCRIPTION
+-Web crawling or scraping software that automatically collects the odds and standings data of the teams for every fixed amount of time
+
+OUTPUT
+-Two csv files containing the data
