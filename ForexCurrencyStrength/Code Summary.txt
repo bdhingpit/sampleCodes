@@ -1,0 +1,9 @@
+SHORT DESCRIPTION:
+-Retrieves ForEx data and calculates the strength of currency. Afterward, result is sent to a messaging application (Telegram). May be used to easily monitor status of ForEx market.
+
+DATASET:
+-Open, high, low, and close values of the last 'n' candles of the eight major currencies (EUR, GBP, AUD, NZD, USD, CAD, CHF, JPY).
+
+OUTPUT
+-A message about the cumulative percent change of each currency displayed as values and as an image of a barchart. Additionally, provides recommendation of tradeable currency pairs depending on the cutoff value set.
+
