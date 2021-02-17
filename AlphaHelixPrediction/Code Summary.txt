@@ -5,14 +5,10 @@ GOAL
 -Predict whether a given amino acid sequence will conform to an alpha helix secondary structure.
 
 DATASET
--6129 secondary structure sequences retrieved from PDB then processed. Divided into: 4903 for training and 1226 for test. No validation set was used.
+-6129 secondary structure sequences retrieved from PDB then processed. Divided into: 4903 for training and 1226 for test.
 
 MODEL USED 
--Recurrent neural network (RNN), specifically the long short-term memory (LSTM) variation. For model1, two 128-node hidden layer with sigmoid activation function.
+-Recurrent neural network (RNN), specifically the long short-term memory (LSTM) variation. Two 128-node hidden layers with sigmoid activation function.
 
-RESULT (for model1)
--Precision (true positive/(true positive + false positive)) = 378/(378+102) = 79%
--Recall (true positive/(true positive + false negative)) = 378/(378+109) = 78%
+RESULT (for test set)
 -Accuracy ((true positive + true negative)/total) = (378+630)/1226 = 82%
-
-*Cut off value for predicted positive is >= 0.51; for negative <= 0.49.
